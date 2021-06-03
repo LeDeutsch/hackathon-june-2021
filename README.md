@@ -21,7 +21,7 @@ We aiming to create the a website with Wordpress and an Android app with Android
 | Ludwig | [Profile](https://github.com/LeDeutsch)  |
 | Clément | [Profile](https://github.com/grabux)  |
 | Alaric | [Profile](https://github.com/Ewerav)  |
-| Grâce | [Profile](https://github.com/ghost9333)  | https://github.com/De-Chancel
+| Grâce | [Profile](https://github.com/grace848)  |
 
 
 ## About us
