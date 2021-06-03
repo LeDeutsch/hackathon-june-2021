@@ -1,0 +1,162 @@
+.notice.highlight-welcome-notice {
+    border-left: none;
+}
+
+.notice.highlight-welcome-notice .notice-content-wrapper {
+    padding: 20px;
+    margin: auto;
+}
+
+.notice.highlight-welcome-notice [id=mesmerize_homepage] {
+    display: block !important;
+}
+
+.notice.highlight-welcome-notice [id=mesmerize_homepage] .mesmerize-popup {
+    margin: auto;
+}
+
+.notice.highlight-welcome-notice [id=mesmerize_homepage] .mesmerize-popup h3.mesmerize_title {
+    padding: 0;
+    color: #32373c;
+    line-height: 1.2em;
+    font-size: 2.1em;
+    font-weight: 400;
+    margin: 0;
+}
+
+.notice.highlight-welcome-notice [id=mesmerize_homepage] h4 {
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.notice.highlight-welcome-notice [id=mesmerize_homepage] .mesmerize-features-list li:before {
+    font-family: dashicons;
+    color: #45a002;
+    content: "\f147";
+    padding-right: 10px;
+    font-size: 29px;
+    vertical-align: bottom;
+}
+
+.notice.highlight-welcome-notice [id=mesmerize_homepage] .mesmerize-features-list li {
+    font-size: 1.3em;
+    line-height: 120%;
+    display: inline-block;
+    max-width: 320px;
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+
+.notice.highlight-welcome-notice [id=mesmerize_homepage] .mesmerize-popup > div {
+    display: flex;
+}
+
+.notice.highlight-welcome-notice [id=mesmerize_homepage] .mesmerize-popup > div.footer {
+    display: block;
+    margin-top: -48px;
+    margin-bottom: 10px;
+    z-index: 1000;
+    position: relative;
+}
+
+.notice.highlight-welcome-notice [id=mesmerize_homepage] .mesmerize-popup > div.footer .disable-popup-cb {
+    display: none;
+}
+
+.notice.highlight-welcome-notice [id=mesmerize_homepage] .mesmerize-popup > div.footer .mesmerize-popup-cancel {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.notice.highlight-welcome-notice [id=mesmerize_homepage] .mesmerize-popup > div .mesmerize_cp_column:first-of-type {
+    flex-grow: 1;
+    padding-bottom: 78px;
+}
+
+.notice.highlight-welcome-notice [id=mesmerize_homepage] .mesmerize-popup > div .mesmerize_cp_column:last-of-type {
+    flex-grow: 0;
+}
+
+.notice.highlight-welcome-notice [id=mesmerize_homepage] img.popup-theme-screenshot {
+    max-width: 480px;
+}
+
+.notice.highlight-welcome-notice h1.thank-you-title {
+    text-align: center;
+    font-size: 32px;
+    line-height: 115%;
+    font-weight: 300;
+    margin-bottom: 10px;
+}
+
+.notice.highlight-welcome-notice a.button.button-hero.button-primary {
+    text-transform: capitalize;
+    float: left;
+}
+
+.wp-customizer .mesmerize-popup .image-scroll,
+.notice.highlight-welcome-notice .image-scroll {
+    width: 400px;
+    height: 280px;
+    background-color: #000;
+    background-image: url(./rolling-image.jpg);
+    animation: highligh-image-scroll 80s linear infinite;
+    animation-delay: 2s;
+    border: 1px solid #e6e6e6;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .1);
+    background-size: cover;
+}
+
+.wp-customizer .mesmerize-popup .image-scroll {
+    width: 330px;
+    min-height: unset;
+    height: 340px;
+    transition-delay: unset;
+}
+
+.notice.highlight-welcome-notice ul.mesmerize-features-list {
+    max-width: 800px;
+}
+
+@keyframes highligh-image-scroll {
+    0% {
+        background-position-y: 0%;
+    }
+
+    50% {
+        background-position-y: 100%;
+    }
+}
+
+@media (max-width: 1024px) {
+    .notice.highlight-welcome-notice .image-scroll {
+        display: none;
+    }
+}
+
+@media (max-width: 1180px) {
+    .notice.highlight-welcome-notice .image-scroll {
+        width: 200px;
+    }
+
+    .notice.highlight-welcome-notice [id=mesmerize_homepage] .mesmerize-features-list li {
+        font-size: 16px;
+        max-width: 290px;
+    }
+}
+
+@media (min-width: 1180px) and (max-width: 1420px) {
+    .notice.highlight-welcome-notice .image-scroll {
+        width: 300px;
+    }
+
+    .notice.highlight-welcome-notice [id=mesmerize_homepage] .mesmerize-features-list li {
+        font-size: 16px;
+        max-width: 290px;
+    }
+
+    .notice.highlight-welcome-notice [id=mesmerize_homepage] .mesmerize-popup h3.mesmerize_title {
+        font-size: 26px;
+    }
+}

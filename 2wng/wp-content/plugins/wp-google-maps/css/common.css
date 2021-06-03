@@ -1,0 +1,796 @@
+/** Override the auto complete styles */
+.pac-container {
+    border-radius: 2px;
+    border-top: none;
+    font-family: Roboto, sans-serif;
+
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px;
+    -moz-box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px;
+    -o-box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px;
+}
+
+.pac-container .pac-item{
+    border-top: none;
+}
+
+.pac-container .pac-item .pac-item-query{
+    color: #333;
+
+}
+
+.wpgmza-google-maps-api-error-overlay,
+	.wpgmza-google-maps-api-error-overlay *
+{
+	text-align: left;
+}
+
+.wpgmza-google-api-error-list
+{
+	list-style: none;
+}
+
+.wpgmza-google-api-error-list li
+{
+	background: ghostwhite;
+	padding: 0.5em;
+	margin: 0.5em;
+	border-color:1px solid #ccc;
+}
+
+.wpgmza-google-api-error-list li:before
+{
+	content: "\26D4";
+	color: red;
+}
+
+.wpgmza-google-maps-api-error-overlay a
+{
+	color: blue;
+}
+
+.wpgmza-google-maps-api-error-overlay .wpgmza-documentation-buttons
+{
+	float: right;
+}
+
+.wpgmza-google-maps-api-error-overlay .wpgmza-documentation-buttons a
+{
+	color: #444444;
+    background: #F3F3F3;
+    border: 1px #DADADA solid;
+    padding: 5px 10px;
+    border-radius: 2px;
+    cursor: pointer;
+    font-size: 9pt;
+    outline: none;
+}
+
+.wpgmza-google-maps-api-error-overlay .wpgmza-documentation-buttons a:hover {
+    border: 1px #C6C6C6 solid;
+    box-shadow: 1px 1px 1px #EAEAEA;
+    color: #333333;
+    background: #F7F7F7;
+}
+
+.wpgmza-google-maps-api-error-overlay .wpgmza-documentation-buttons a:active {
+    box-shadow: inset 1px 1px 1px #DFDFDF;   
+}
+
+.wpgmza-google-maps-api-error-overlay .wpgmza-documentation-buttons a i
+{
+	font-weight: bold;
+	padding-right: 0.3em;
+}
+
+.wpgmza-google-maps-api-error-overlay .wpgmza-front-end-only
+{
+	color: red;
+	font-size: 0.8em;
+}
+
+.wpgmza-google-html-overlay
+{
+	position: absolute;
+}
+
+.wpgmza-google-maps-api-error-overlay
+{
+	position: absolute;
+	
+	top: 0px;
+	left: 0px;
+	
+	width: 100%;
+	height: 100%;
+	
+	background: rgba(255,255,255,0.95);
+	padding: 1em;
+	
+	text-align: center;
+	z-index: 2;
+	
+	overflow-y: scroll;
+}
+
+[data-wpgmza-table]
+{
+	overflow: visible;
+}
+
+.wpgmza-modern-store-locator .wpgmza_cat_checkbox_holder
+{
+	margin: 0 auto;
+	pointer-events: all;
+}
+
+.wpgmza-modern-store-locator .wpgmza-inner { flex-wrap: wrap; }
+
+.ol-info-window-plain
+{
+	min-width: 240px;
+}
+
+.wpgmza-marker-gallery
+{
+	cursor: pointer;
+}
+
+.wpgmza-gallery-input li
+{
+	position: relative;
+	
+	width: 120px;
+	height: 120px;
+	margin: 0.25em;
+	
+	display: inline-block;
+	vertical-align: top;
+	
+	background-size: cover;
+	box-sizing: border-box;
+}
+
+.wpgmza-gallery-input li.wpgmza-add-new-picture
+{
+	cursor: pointer;
+	border: #E8E8E8 dashed 6px;
+	color: #E8E8E8;
+}
+
+.wpgmza-gallery-input li.wpgmza-add-new-picture:hover
+{
+	border-color: lightgray;
+	color: lightgray;
+}
+
+.wpgmza-gallery-input li.wpgmza-add-new-picture>i
+{
+	position: absolute;
+	
+	left: 50%;
+	top: 50%;
+	
+	transform: translate(-50%, -50%);
+	
+	font-size: 32px;
+}
+
+#wpgmaps_options fieldset
+{
+	margin-bottom: 1em;
+}
+
+/*(#wpgmaps_options fieldset>*,
+	.wpgmza-marker-panel fieldset>*
+{
+	display: inline-block;
+	vertical-align: top;
+}*/
+
+#wpgmaps_options input:disabled + label,
+	.wpgmza-feature-panel input:disabled + label,
+	.wpgmza-pro-feature
+{
+	opacity: 0.6;
+}
+
+.wpgmza-feature-panel .wpgmza-save-feature-container button
+{
+	width: 100%;
+}
+
+#wpgmaps_options legend,
+.wpgmza-feature-panel legend,
+#wpgmza-theme-panel label,
+#advanced-markers legend {
+	width: 20%;
+	max-width:180px;
+}
+
+#wpgmaps_options [type="number"],
+	.wpgmza-marker-panel [type="number"]
+{
+	width: 64px;
+}
+
+#wpgmaps_options fieldset>label,
+	.wpgmza-marker-panel fieldset>label
+{
+	width: 200px;
+}
+
+#wpgmaps_options fieldset>label+div,
+	.wpgmza-marker-panel fieldset>label+div
+{
+	width: calc(100% - 200px);
+}
+
+.wpgmza-marker-icon-preview
+{
+	width: 32px;
+	height: 32px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: contain;
+	border: #E8E8E8 dashed 6px;
+}
+
+.wpgmza-marker-icon-picker>*
+{
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.wpgmza-rating-gradient-container
+{
+	display: inline-block;
+	vertical-align: middle;
+	
+	border: 1px solid lightgray;
+	width: 128px;
+	height: 1em;
+}
+
+.wpgmza-rating-gradient-container>.wpgmza-rating-gradient
+{
+	height: 100%;
+	
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ff0000+0,00ff00+100 */
+	background: #ff0000; /* Old browsers */
+	background: -moz-linear-gradient(left, #ff0000 0%, #00ff00 128px); /* FF3.6-15 */
+	background: -webkit-linear-gradient(left, #ff0000 0%,#00ff00 128px); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to right, #ff0000 0%,#00ff00 128px); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff0000', endColorstr='#00ff00',GradientType=1 ); /* IE6-9 */
+	
+	pointer-events: none;
+	
+	transition: width 0.5s;
+}
+
+.wpgmza-rating-stars-container
+{
+	position: relative;
+	font-size: 1.5em;
+}
+
+.wpgmza-rating-stars-container + .wpgmza-num-ratings
+{
+	position: relative;
+}
+
+.wpgmza-rating-stars-container>span
+{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	padding-top: 0.3em;
+}
+
+.wpgmza-rating-stars-container>span.wpgmza-background
+{
+	text-shadow: 0px 0px 2px black;
+}
+
+.wpgmza-rating-stars-container>span.wpgmza-foreground
+{
+	overflow: hidden;
+	color: yellow;
+	text-shadow: 0px -1px 3px orange inner;
+}
+
+.wpgmza-rating-thumbs-container i
+{
+	/* display: none; */
+}
+
+.wpgmza-rating-thumbs-container, .wpgmza-rating-thumbs-container *
+{
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.wpgmza-rating-thumbs-container
+{
+	background: ghostwhite;
+	/* background: linear-gradient(to right, #88AFD0 0%, #88AFD0 75%, transparent 75%, transparent 100%); */
+	
+	border: 1px solid lightgrey;
+	border-radius: 6px;
+}
+
+.wpgmza-rating-thumbs-container>span.wpgmza-downvote,
+	.wpgmza-rating-thumbs-container>span.wpgmza-upvote
+{
+	padding: 0.5em 1em;
+}
+
+.wpgmza-rating-thumbs-container i
+{
+	position: relative;
+	font-size: 1.5em;
+	
+	top: 0.0em;
+	transition: top 0.6s;
+}
+
+.wpgmza-rating-thumbs-container .wpgmza-upvote>i
+{
+	top: -0.05em;
+}
+
+.wpgmza-rating-thumbs-container .wpgmza-down>i
+{
+	top: 0.05em;
+}
+
+.wpgmza-rating-thumbs-container .wpgmza-upvote:hover>i
+{
+	top: -0.25em;
+}
+
+.wpgmza-rating-thumbs-container .wpgmza-downvote:hover>i
+{
+	top: 0.25em;
+}
+
+.wpgmza-rating-thumbs-container>span.wpgmza-upvote
+{
+	border-left: 1px solid lightgrey;
+}
+
+.wpgmza-rating-thumbs-container>span:hover,
+	.wpgmza-rating-thumbs-container>span.wpgmza-remembered-rating
+{
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,c9c9c9+100&0.5+0,0.2+100 */
+	background: -moz-linear-gradient(top, rgba(255,255,255,0.5) 0%, rgba(201,201,201,0.2) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, rgba(255,255,255,0.5) 0%,rgba(201,201,201,0.2) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, rgba(255,255,255,0.5) 0%,rgba(201,201,201,0.2) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#80ffffff', endColorstr='#33c9c9c9',GradientType=0 ); /* IE6-9 */
+}
+
+.wpgmza-rating-thumbs-container>span:active
+{
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,c9c9c9+100&0.5+0,0.2+100 */
+	background: -moz-linear-gradient(bottom, rgba(255,255,255,0.5) 0%, rgba(201,201,201,0.2) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(bottom, rgba(255,255,255,0.5) 0%,rgba(201,201,201,0.2) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to top, rgba(255,255,255,0.5) 0%,rgba(201,201,201,0.2) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#33c9c9c9', endColorstr='#80ffffff',GradientType=0 ); /* IE6-9 */
+}
+
+.wpgmza-rating.wpgmza-loading
+{
+	filter: grayscale(100%);
+}
+
+.wpgmza-google-text-overlay > .wpgmza-inner
+{
+	position: absolute;
+	transform: translate(-50%, -50%);
+	
+	text-align: center;
+	font-weight: bold;
+	
+	text-shadow: 0px 0px 2px white;
+	text-shadow: 0px 0px 2px white,
+		0px 0px 2px white,
+		0px 0px 2px white,
+		0px 0px 2px white;
+}
+
+.wpgmza-modern-store-locator {
+	text-align: center;
+	padding-top: 10px;
+}
+
+.wpgmza-modern-store-locator > .wpgmza-inner {
+	display: inline-block;
+	background: white;
+	padding: 0.5em !important;
+
+    border-radius: 2px;
+    font-family: Roboto, sans-serif;
+
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px;
+    -moz-box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px;
+	-o-box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px;
+
+}
+
+.wpgmza-modern-store-locator input,
+.wpgmza-modern-store-locator select {
+    height: 28px !important;
+    vertical-align: top;
+    padding: 0 6px !important;
+    margin: 0 2px;
+    color: #777;
+}
+
+.wpgmza-select-theme-preset
+{
+	position: absolute;
+	right: 0.5em;
+	bottom: 0.5em;
+}
+
+#wpgmza-theme-editor
+{
+	
+	background: #fff;
+	z-index: 999;
+	box-sizing: border-box;
+	overflow-y: auto;
+}
+
+#wpgmza-theme-editor>*
+{
+}
+
+#wpgmza-theme-editor fieldset>label
+{
+	width: 100px;
+}
+
+#wpgmza-theme-editor fieldset>label + div
+{
+	display: inline-block;
+	vertical-align: middle;
+}
+
+#wpgmza-theme-editor fieldset>label + div > input[type="checkbox"]:not(:checked) + input
+{
+	display: none;
+}
+
+.wpgmza-import-log
+{
+	display: none;
+	position: relative;
+}
+
+.wpgmza-import-log > .wpgmza-log-contents
+{
+	white-space: pre-wrap;
+	display: block;
+	word-wrap: break-word;
+	border: 1px dotted grey;
+	padding: 1em;
+	font-family: monospace;
+	font-size: 11px;
+}
+
+.wpgmza-import-log-buttons
+{
+	position: absolute;
+	right: 0;
+	bottom: 100%;
+}
+
+/* Global settings page */
+
+#wpgmza-global-settings>ul>li
+{
+	display: inline-block;
+}
+
+form.wpgmza-form *
+{
+	box-sizing: border-box;
+}
+
+.wpgmza-form legend
+{
+	margin-right: 30px;
+	margin-bottom: 6px;
+	margin-top: 6px;
+	/* padding: 1em; */
+}
+
+
+/*form.wpgmza-form label
+{
+	display: block;
+}*/
+
+.wpgmza-form input[type="color"]
+{
+	height: 2em;
+}
+
+form.wpgmza-form .wpgmza-fancy-toggle-button,
+	form.wpgmza-form .wpgmza-fancy-toggle-button + label
+{
+	display: inline-block;
+	vertical-align: baseline;
+}
+
+form.wpgmza-form .wpgmza-fancy-toggle-button + label
+{
+	padding: 1em 1em;
+}
+
+.wpgmza-upgrade-tab, .wpgmza-upgrade-tab a,
+	.update-att,
+	.update-att a
+{
+	color: #2B323C !important;  
+}
+
+.wpgmza-action-buttons>*
+{
+	text-align: center;
+}
+
+.wpgmza-preloader
+{
+	pointer-events: none;	/* Prevent mouse wheel scrolling on preloader */
+	z-index: 10000000000;
+	
+	display: inline-block;
+	position: relative;
+	width: 64px;
+	height: 64px;
+
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.wpgmza-preloader div {
+  position: absolute;
+  top: 27px;
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+  
+  background: #fff;
+  box-shadow: 0px 0px 2px black;
+  
+  animation-timing-function: cubic-bezier(0, 1, 1, 0);
+}
+.wpgmza-preloader div:nth-child(1) {
+  left: 6px;
+  animation: wpgmza-preloader1 0.6s infinite;
+}
+.wpgmza-preloader div:nth-child(2) {
+  left: 6px;
+  animation: wpgmza-preloader2 0.6s infinite;
+}
+.wpgmza-preloader div:nth-child(3) {
+  left: 26px;
+  animation: wpgmza-preloader2 0.6s infinite;
+}
+.wpgmza-preloader div:nth-child(4) {
+  left: 45px;
+  animation: wpgmza-preloader3 0.6s infinite;
+}
+@keyframes wpgmza-preloader1 {
+  0% {
+    transform: scale(0);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+@keyframes wpgmza-preloader3 {
+  0% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(0);
+  }
+}
+@keyframes wpgmza-preloader2 {
+  0% {
+    transform: translate(0, 0);
+  }
+  100% {
+    transform: translate(19px, 0);
+  }
+}
+
+#wpgmza-credits-page .wpgmza-developer-avatar
+{
+	width: 60px;
+}
+
+.wpgmza-feature-panel .wpgmza-preloader div
+{
+	background: #000;
+	box-shadow: 0px 0px 2px white;
+	
+	transition: opacity 0.6s;
+}
+
+.wpgmza-feature-panel.wpgmza-loading > * :not(.wpgmza-preloader)
+{
+	opacity: 0.5;
+}
+
+.wpgmza-form .ui-tabs-nav>li
+{
+	cursor: pointer;
+}
+
+#wpgmaps_tabs_markers.wpgmza-form ul.wpgmza-tab-wrap img
+{
+	height: 1.3em;
+	width: auto;
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 0.3em;
+}
+
+#wpgmaps_tabs_markers.wpgmza-form ul.wpgmza-tab-wrap .ui-tabs-active img
+{
+	/*filter: invert(100%);*/
+}
+
+input[name='wpgmza_developer_mode'] + .notice-warning
+{
+	display: none;
+}
+
+input[name='wpgmza_developer_mode']:checked + .notice-warning
+{
+	display: block;
+}
+
+.wpgmza-gesture-overlay
+{
+    color: white;
+    background: rgba(0,0,0,0.5);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 999;
+    text-align: center;
+    line-height: 400px;
+	pointer-events: none;
+}
+
+#wpgmza-admin-map-table-container td
+{
+	white-space: nowrap;
+}
+
+.wpgmza-review-nag
+{
+  padding: 10px;
+  border: 2px solid #46b450;
+  border-radius: 3px;
+}
+
+#wpgmza-theme-presets input[type="radio"]
+{
+	display: none;
+}
+
+#wpgmza-global-settings #xml-cache-settings
+{
+	display: none;
+}
+
+#wpgmza-map-edit-page input[name='wpgmza_iw_type']
+{
+	display: none;
+}
+
+.wpgmza-marker-listing-style-menu img
+{
+	width: 90px;
+	height: auto;
+}
+
+/*.wpgmza-marker-listing-style-menu input[type='radio']
+{
+	display: none;
+}*/
+
+#wpgmza-marker-listing-preview
+{
+	float: right;
+}
+
+.wpgmza-marker-listing-style-menu input[type='radio']:checked + img
+{
+	/*border-left: #0073AA 3px solid;*/
+	border-top-left-radius: 3px;
+	border-bottom-left-radius: 3px;
+	position: relative;
+	/*left: -3px;*/
+	/*margin-right: -3px;*/
+}
+
+.wpgmza-marker-listing-style-menu input[type='radio']:checked + img + span,
+input[type='radio']:checked + .wpgmza-infowindow-picker__item span{
+	font-weight: 800;
+}
+
+.wpgmza-marker-listing-style-menu
+{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.wpgmza-marker-listing-style-menu input[type='radio']
+{
+	display: none;
+}
+
+#wpgmza-pro-features.wpgmza-upsell
+{
+	background: transparent;
+	border: none;
+}
+
+#wpgmza-pro-features.wpgmza-upsell a
+{
+	color: #2f76e1;
+	font-weight: normal;
+}
+
+#open-route-service-key-notice .wpgmza-flex,
+	#wpgmza-map-edit-page #marker-filtering .wpgmza-flex
+{
+	display: block;
+}
+
+#wpgmza-map-edit-page .wpgmza_map
+{
+	z-index: 2;
+	width: 100% !important;
+	float: right !important;
+	margin-left: 15px;
+}
+
+.map-container-wrap { 
+	float:left;
+	width:50%;
+}
+
+
+#wpgmza-global-settings input[name='wpgmza_iw_type'] {
+    display: none;
+}
+
+.wpgmza-feature-accordion .dataTable,
+.wpgmza-table-container .dataTable{
+    width: 100% !important;
+}
+.wgmza-map-editor-holder {
+    display: block;
+    overflow: auto;
+    clear: both;
+}
+
+#wpgmaps_save_reminder {
+    padding-top: 14px;
+    clear: both;
+    display: block;
+    overflow: auto;
+}

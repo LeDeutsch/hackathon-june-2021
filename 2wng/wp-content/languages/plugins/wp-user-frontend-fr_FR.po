@@ -1,0 +1,4310 @@
+# Translation of Plugins - WP User Frontend &#8211; Membership, Profile, Registration &amp; Post Submission Plugin for WordPress - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - WP User Frontend &#8211; Membership, Profile, Registration &amp; Post Submission Plugin for WordPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-28 09:28:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - WP User Frontend &#8211; Membership, Profile, Registration &amp; Post Submission Plugin for WordPress - Stable (latest release)\n"
+
+#. translators: %s: Pack page link
+#: includes/class-form.php:193
+msgid "You need to  <a href=\"%s\">purchase a subscription package</a> to post in this form"
+msgstr "Vous devez <a href=\"%s\">acheter un forfait d’abonnement</a> pour publier via ce formulaire"
+
+#: includes/fields/class-pro-upgrade-fields.php:205
+msgid "QR Code"
+msgstr "QR code"
+
+#: includes/fields/class-pro-upgrade-fields.php:193
+msgid "Math Captcha"
+msgstr "CAPTCHA mathématique"
+
+#: includes/fields/class-abstract-fields.php:472
+msgid "Search the terms name. use ⇦ ⇨ for navigate"
+msgstr "Recherchez le nom des termes. Utilisez ⇦ ⇨ pour naviguer"
+
+#: admin/html/whats-new.php:117
+msgid "Paypal non recurring pack id does not set"
+msgstr "ID de forfait non récurrent PayPal non défini"
+
+#: admin/html/whats-new.php:140
+msgid "The width of the column field was breaking"
+msgstr "La largeur du champ de colonne était cassée "
+
+#: admin/settings-options.php:477
+msgid "Retry Failed Payment"
+msgstr "Réessayer le paiement échoué"
+
+#: admin/html/whats-new.php:144
+msgid "Paypal recurring payment"
+msgstr "Paiement Paypal récurrent"
+
+#: admin/html/whats-new.php:136
+msgid "The tax rate was not calculated with the total amount"
+msgstr "Les taux de taxe n’ont pas été calculés avec le montant total"
+
+#: admin/html/whats-new.php:132
+msgid "Subscription cancel doesn't work"
+msgstr "L’annulation de l’abonnement ne fonctionne pas"
+
+#: admin/settings-options.php:478
+msgid "How many times should retry for failed payment max is 4"
+msgstr "Le nombre maximal de tentatives de paiement échouées est de 4"
+
+#: admin/html/whats-new.php:128
+msgid "Once trial subscription is used, it couldn't reset"
+msgstr "Une fois que l’abonnement d’essai est utilisé, il ne peut pas être réinitialisé"
+
+#: admin/html/whats-new.php:155
+msgid "Updated codebase to fix timezone mismatch"
+msgstr "Mise à jour de la base de données des codes pour corriger le décalage horaire"
+
+#: admin/html/whats-new.php:170
+msgid "All states of New Zealand are added"
+msgstr "Tous les états de Nouvelle-Zélande sont ajoutés"
+
+#: admin/html/whats-new.php:166
+msgid "Custom html content field's width"
+msgstr "Largeur du champ de contenu pour HTML personnalisé"
+
+#: admin/html/whats-new.php:217
+msgid "Added support for WooCommerce product category value replacemen"
+msgstr "Ajouté la prise en charge du remplacement de la valeur de la catégorie de produit WooCommerce"
+
+#: admin/html/whats-new.php:213
+msgid "Missing Auckland State for New Zealand country"
+msgstr "État d’Auckland manquant pour la Nouvelle Zélande"
+
+#: admin/html/whats-new.php:209
+msgid "Conflict image field with acf image field"
+msgstr "Conflit du champ image avec le champ image ACF"
+
+#: admin/html/whats-new.php:201
+msgid "Multiple file image can't select"
+msgstr "Vous ne pouvez pas sélectionner plusieurs fichiers image"
+
+#: admin/html/whats-new.php:197
+msgid "Ajax type category not showing on edit"
+msgstr "La catégorie de type Ajax ne s’affiche pas lors de la modification"
+
+#: admin/html/whats-new.php:193
+msgid "Option label not working when & use"
+msgstr "Le libellé d’option ne fonctionne pas quand & utilisation"
+
+#: admin/html/whats-new.php:189
+msgid "URL field new window not working"
+msgstr "Le champ URL de la nouvelle fenêtre ne fonctionne pas"
+
+#: admin/html/whats-new.php:185
+msgid "Show Invalid subscription message if wrong pack id passed"
+msgstr "Afficher un message d’abonnement non valide si un mauvais identifiant de pack a été transmis"
+
+#: admin/html/whats-new.php:181
+msgid "Get appropriate user id when role based conditions are present"
+msgstr "Obtenez l’ID de compte approprié lorsque les conditions basées sur le rôle sont remplies"
+
+#: class/payment.php:89
+msgid "No subscription pack found."
+msgstr "Aucun pack d’abonnement trouvé."
+
+#: assets/js-templates/form-components.php:153
+#: admin/form-builder/assets/js/components/field-option-data/template.php:33
+msgid "Do not use & or other special character for option label"
+msgstr "N’utilisez pas « & » ou un autre caractère spécial pour le libellé de l’option"
+
+#: admin/html/whats-new.php:205
+msgid "Subscription pack PayPal Checkout gets \"Error: Access Denied\""
+msgstr "La vérification d’abonnement PayPal donne « Erreur : accès refusé »"
+
+#: includes/fields/class-abstract-fields.php:511
+#: includes/fields/class-abstract-fields.php:585
+#: includes/fields/class-abstract-fields.php:693
+msgid "Word"
+msgstr "Mot"
+
+#: includes/fields/class-abstract-fields.php:510
+#: includes/fields/class-abstract-fields.php:584
+#: includes/fields/class-abstract-fields.php:692
+msgid "Character"
+msgstr "Caractère"
+
+#: includes/fields/class-abstract-fields.php:507
+#: includes/fields/class-abstract-fields.php:581
+#: includes/fields/class-abstract-fields.php:689
+msgid "Content restricted by"
+msgstr "Contenu restreint par"
+
+#: admin/html/whats-new.php:239
+msgid "Saving custom taxonomy terms when input type is text"
+msgstr "Enregistrement des termes de taxonomie personnalisés lorsque le type d’entrée est du texte"
+
+#: admin/html/whats-new.php:235
+msgid "Inconsistency in lost password reset email message"
+msgstr "Incohérence dans le message e-mail de réinitialisation du mot de passe perdu"
+
+#: admin/html/whats-new.php:231
+msgid "Make sure post author edit link works only in frontend"
+msgstr "Assurez-vous que le lien de modification de l’auteur/autrice du message fonctionne uniquement sur l’interface publique"
+
+#: admin/html/whats-new.php:227
+msgid "Add character restriction feature"
+msgstr "Ajout d’une fonctionnalité de restriction de caractères"
+
+#: includes/fields/class-abstract-fields.php:525
+#: includes/fields/class-abstract-fields.php:599
+#: includes/fields/class-abstract-fields.php:707
+msgid "Number of characters or words the author to be restricted in"
+msgstr "Le nombre de caractères ou de mots auquel l’auteur/autrice doit se restreindre"
+
+#: admin/html/whats-new.php:251
+msgid "Upload button unresponsive issue in iOS"
+msgstr "Problème de bouton de téléversement non responsive dans iOS"
+
+#: admin/html/whats-new.php:247
+msgid "Showing WPUF edit link for WP default roles"
+msgstr " Affichage du lien de modification WPUF pour les rôles WP par défaut"
+
+#: admin/html/whats-new.php:243
+msgid "Taxonomy field JS error in builder"
+msgstr "Erreur JS dans le constructeur pour le champ taxonomie"
+
+#: admin/html/whats-new.php:321
+msgid "exclude_type warning in wpuf_category_checklist"
+msgstr "avertissement exclude_type dans wpuf_category_checklist"
+
+#: admin/html/whats-new.php:313
+msgid "Conflict with Phlox theme"
+msgstr "Conflit avec le thème Phlox"
+
+#: admin/html/whats-new.php:305
+msgid "Illigal variable declartion"
+msgstr "Déclaration de variable illégale"
+
+#: admin/html/whats-new.php:333
+msgid "Login url when login page is not set"
+msgstr "URL de connexion lorsque la page de connexion n’est pas définie"
+
+#: admin/html/whats-new.php:329
+msgid "Conflict between image and file upload custom fields"
+msgstr "Conflit entre les champs personnalisés de téléversement d’image et de fichier"
+
+#: admin/html/whats-new.php:317
+msgid "Textarea custom field data sanitization"
+msgstr "Assainissement des données des champs personnalisés de zone de texte"
+
+#: admin/html/whats-new.php:309
+msgid "Featured image updating issue"
+msgstr "Problème de mise à jour de l’image mise en avant"
+
+#: admin/html/whats-new.php:301
+msgid "Post preview missing fields"
+msgstr "Champs manquants pour la prévisualisation de la publication"
+
+#: admin/html/whats-new.php:297
+msgid "File upload with same file name"
+msgstr "Téléversement de fichier avec le même nom de fichier"
+
+#: admin/html/whats-new.php:293
+msgid "Mime type for uploading JSON files"
+msgstr "Type Mime pour le téléversement de fichiers JSON"
+
+#: admin/html/whats-new.php:285
+msgid "Section-break field alignment"
+msgstr "Alignement du champ de saut de section"
+
+#: admin/html/whats-new.php:325
+msgid "Category field not showing all child categories for selection type child of"
+msgstr "Le champ « Catégorie » n’affiche pas toutes les catégories enfants pour ce type de sélection enfant"
+
+#: admin/html/whats-new.php:289
+msgid "Pay per post doesn't work if subscription pack is activated"
+msgstr "Le paiement par publication ne fonctionne pas si le forfait d’abonnement est activé"
+
+#: admin/html/whats-new.php:281
+msgid "Role based permission for accessing a post form"
+msgstr "Droit basé sur le rôle pour accéder à un formulaire de publication"
+
+#: admin/html/whats-new.php:277
+msgid "Post edit map capability condition"
+msgstr "Condition de capacité de modification après publication d’une carte"
+
+#: admin/html/whats-new.php:273
+msgid "Add missing colons after field label"
+msgstr "Ajout des deux-points manquants après le libellé du champ"
+
+#: admin/html/whats-new.php:269
+msgid "Refactor control buttons visibility in form builder"
+msgstr "Visibilité des boutons de contrôle du réfacteur dans le constructeur de formulaire"
+
+#: admin/html/whats-new.php:261
+msgid "Add post edit link for post authors in single or archive pages"
+msgstr "Ajouter un lien de modification de publication pour les auteurs ou autrices dans les pages uniques ou d’archive"
+
+#: admin/html/whats-new.php:265
+msgid "Enhance post delete message"
+msgstr "Améliorer le message de suppression de la publication"
+
+#: templates/dashboard.php:276
+msgid "Are you sure you want to delete this post ?"
+msgstr "Confirmez-vous vouloir supprimer cette publication ?"
+
+#: admin/html/whats-new.php:421
+msgid "Missing billing address in invoice PDF"
+msgstr "Adresse de facturation manquante dans le PDF de la facture"
+
+#: admin/html/whats-new.php:413
+msgid "Undefined name property for Custom HTML fields"
+msgstr "Propriété de nom indéfinie pour les champs HTML personnalisés"
+
+#: admin/html/whats-new.php:401
+msgid "Show label instead of values for radio, checkbox, dropdown and multiselect data"
+msgstr "Afficher le libellé au lieu des valeurs pour les données radio, case à cocher, liste déroulante et multi-sélection"
+
+#: admin/html/whats-new.php:441
+msgid "Error notice regarding registration page redirect"
+msgstr "Notification d’erreur concernant la redirection de la page d’inscription"
+
+#: admin/html/whats-new.php:437
+msgid "Redirect to subscription page at registration"
+msgstr "Redirection vers la page d’abonnement lors de l’inscription"
+
+#: admin/html/whats-new.php:433
+msgid "Display default avatars on admin settings discussion page"
+msgstr "Afficher les avatars par défaut sur la page de discussion des réglages de l’administration"
+
+#: admin/html/whats-new.php:449
+msgid "Default login redirect link"
+msgstr "Lien de redirection de connexion par défaut"
+
+#: admin/html/whats-new.php:429
+msgid "Avatar size display not complying with admin settings size"
+msgstr "Affichage de la taille de l’avatar non conforme à la taille des réglages d’administration"
+
+#: admin/html/whats-new.php:417
+msgid "Delete attachment process"
+msgstr "Processus de suppression des fichiers joints"
+
+#: admin/html/whats-new.php:409
+msgid "Admin settings link for recaptcha helper text"
+msgstr "Lien vers les réglages de l’administration pour le texte d’aide du reCAPTCHA"
+
+#: admin/html/whats-new.php:405
+msgid "Saving custom taxonomies for type text input"
+msgstr "Enregistrement des taxonomies personnalisées pour la saisie de texte"
+
+#: admin/html/whats-new.php:393
+msgid "Use file name and size to generate hash to prevent duplicant image upload"
+msgstr "Utilisez le nom et la taille du fichier pour générer un hachage afin d’éviter le téléversement d’image en double"
+
+#: admin/class-admin-settings.php:522
+msgid "JSON file not found"
+msgstr "Fichier JSON non trouvé"
+
+#: admin/class-admin-settings.php:431
+msgid "Add JSON file"
+msgstr "Ajouter un fichier JSON"
+
+#: admin/class-admin-settings.php:512
+msgid "Missing file_id param"
+msgstr "Paramètre file_id manquant"
+
+#: admin/class-admin-settings.php:432
+msgid "Could not import forms."
+msgstr "Impossible d’importer des formulaires."
+
+#: includes/free/class-login.php:416
+msgid "Nonce is invalid"
+msgstr "Le nonce est non valide"
+
+#: admin/html/whats-new.php:585
+msgid "Return of function wp_verify_nonce() was ignored."
+msgstr "Le retour de la fonction wp_verify_nonce() a été ignoré."
+
+#: admin/html/whats-new.php:583
+msgid "Nonce not verify on login"
+msgstr "Nonce pas vérifié à la connexion"
+
+#: class/frontend-account.php:246
+msgid "For each"
+msgstr "Pour chaque"
+
+#: admin/settings-options.php:304
+msgid "Active Tab"
+msgstr "Onglet actif"
+
+#: includes/free/form-element.php:137 admin/class-admin-subscription.php:485
+msgid "You may use: {post_author} {post_url} {blogname} {post_title} {post_status}"
+msgstr "Vous pouvez utiliser :{post_author} {post_url} {blogname} {post_title} {post_status}"
+
+#: admin/html/whats-new.php:599
+msgid "Unlock option was unavailable after the post being locked"
+msgstr "L’option de déverrouillage n’était pas disponible après le verrouillage de la publication"
+
+#: includes/setup-wizard.php:316
+msgid "Share Essentials "
+msgstr "Partager l’essentiel"
+
+#: includes/class-form.php:220
+msgid "Post Limit Exceeded for your purchased subscription pack."
+msgstr "Limite de publication dépassée pour votre forfait d’abonnement acheté."
+
+#: admin/html/whats-new.php:609
+msgid "Sending admin payment received email twice"
+msgstr "Envoi d’un paiement à l’admin reçu deux fois par e-mail"
+
+#: admin/html/whats-new.php:606
+msgid "Gutenberg block of WPUF didn't work on bedrock installation."
+msgstr "Le bloc Gutenberg de WPUF n’a pas fonctionné sur l’installation Bedrock en place."
+
+#: admin/html/whats-new.php:604
+msgid "Gutenberg block of WPUF didn't work on bedrock installation"
+msgstr "Le bloc Gutenberg de WPUF n’a pas fonctionné sur l’installation Bedrock en place"
+
+#: admin/html/whats-new.php:601
+msgid "Unlock option was unavailable after the post being locked."
+msgstr "L’option de déverrouillage n’était pas disponible après le verrouillage de la publication."
+
+#: class/frontend-account.php:230
+msgid "<p>You may have processed your payment, but the pack is not active yet.</p>"
+msgstr "<p>Vous pouvez procéder à votre paiement, mais le forfait n’est pas encore actif.</p>"
+
+#: admin/template-post.php:187
+msgid "Search the terms name."
+msgstr "Recherchez le nom des termes."
+
+#: includes/free/class-login.php:814
+msgid "User already verified"
+msgstr "Utilisateur déjà vérifié"
+
+#: includes/free/class-login.php:808
+msgid "Invalid User activation url"
+msgstr "URL d’activation de l’utilisateur est non valide"
+
+#: includes/free/class-login.php:797 includes/free/class-login.php:822
+msgid "Activation URL is not valid"
+msgstr "L’URL d’activation n’est pas valide"
+
+#: includes/countries-formated.php:77
+msgid "Bangladesh"
+msgstr "Bangladesh"
+
+#: includes/fields/class-field-column.php:70
+msgid "Number of Columns"
+msgstr "Nombre de colonnes"
+
+#: assets/js-templates/form-components.php:738
+#: admin/form-builder/assets/js/components/form-recaptcha/template.php:10
+msgid "Invisible reCaptcha"
+msgstr "reCaptcha invisible"
+
+#: admin/html/whats-new.php:646
+msgid "Added column field"
+msgstr "Ajout d’un champ de colonne"
+
+#: includes/fields/class-field-column.php:78
+msgid "Space Between Columns"
+msgstr "Espace entre les colonnes"
+
+#: admin/html/whats-new.php:661
+msgid "Text input field for taxonomies not working"
+msgstr "Champ de saisie texte pour les taxonomies ne fonctionnant pas"
+
+#: includes/fields/class-field-column.php:82
+msgid "Add padding space between columns. e.g: 10"
+msgstr "Ajouter un espace de marge interne entre les colonnes. Ex : 10"
+
+#: includes/fields/class-field-url.php:9
+msgid "Website URL"
+msgstr "URL du site web"
+
+#. translators: %s: email
+#: includes/free/class-registration.php:301
+msgid "E-mail: %s"
+msgstr "E-mail : %s"
+
+#. translators: %s: site name
+#: includes/free/class-registration.php:297
+msgid "New user registration on your site %s:"
+msgstr "Inscription d’un nouvel utilisateur sur votre site %s :"
+
+#: admin/promotion.php:86
+msgid "Never show again"
+msgstr "Ne plus afficher"
+
+#: includes/fields/class-field-recaptcha.php:174
+msgid "Dark"
+msgstr "Foncé"
+
+#: includes/fields/class-field-recaptcha.php:173
+msgid "Light"
+msgstr "Clair"
+
+#: includes/fields/class-field-html.php:77
+msgid "HTML Section"
+msgstr "Section HTML"
+
+#. translators: %s: username
+#: includes/free/class-registration.php:309
+msgid "Hi, %s"
+msgstr "Bonjour, %s"
+
+#: includes/fields/class-field-post-content.php:9
+msgid "Post Content"
+msgstr "Contenu de la publication"
+
+#: admin/html/whats-new.php:707
+msgid "Fatal error when use PHP lower version (5.4 or lower)"
+msgstr "Erreur fatale lors de l’utilisation d’une version de PHP inférieure (5.4 ou inférieure)"
+
+#: includes/fields/class-field-html.php:56
+msgid "Html Codes"
+msgstr "Codes Html"
+
+#: admin/html/whats-new.php:694
+msgid "With the latest version of WordPress the gutenberg block of WP User Frontend were not working. In this version, you will get it fixed."
+msgstr "Avec la dernière version de WordPress, le bloc Gutenberg de WP User Frontend ne fonctionnait pas. Dans cette version, c’est corrigé."
+
+#: admin/promotion.php:84
+msgid "Sure! I'd love to!"
+msgstr "Évidemment ! J’adorerais aider !"
+
+#: includes/fields/class-field-post-excerpt.php:6
+msgid "Post Excerpt"
+msgstr "Extrait de la publication"
+
+#: includes/fields/class-pro-upgrade-fields.php:115
+msgid "Checkbox Grid"
+msgstr "Grille de cases à cocher"
+
+#: includes/fields/class-pro-upgrade-fields.php:126
+msgid "Multiple Choice Grid"
+msgstr "Grille à choix multiples"
+
+#: admin/promotion.php:85
+msgid "I've already left a review"
+msgstr "J’ai déjà laissé une évaluation"
+
+#: includes/fields/class-field-recaptcha.php:48
+msgid "reCaptcha API key is missing."
+msgstr "La clé d’API reCaptcha manque."
+
+#: includes/fields/class-field-recaptcha.php:179
+msgid "Select reCaptcha Theme"
+msgstr "Sélectionnez un thème reCaptcha"
+
+#: wpuf.php:456
+msgid ""
+"<p style=\"font-size: 13px\">\n"
+"                            <strong class=\"highlight-text\" style=\"font-size: 18px; display:block; margin-bottom:8px\"> UPDATE REQUIRED </strong>\n"
+"                            WP User Frontend Pro is not working because you are using an old version of WP User Frontend Pro. Please update <strong>WPUF Pro</strong> to >= <strong>v3.1.0</strong> to work with the latest version of WP User Frontend\n"
+"                        </p>"
+msgstr ""
+"<p style=\"font-size: 13px\">\n"
+"                            <strong class=\"highlight-text\" style=\"font-size: 18px; display:block; margin-bottom:8px\">Mise à jour nécessaire</strong>\n"
+"                            WP User Frontend Pro ne fonctionne pas car vous utilisez une ancienne version de WP User Frontend Pro. Veuillez mettre à jour <strong>WPUF Pro</strong> vers >= <strong>v3.1.0</strong> pour travailler avec la dernière version de WP User Frontend\n"
+"                        </p>"
+
+#: admin/html/form-settings-post-edit.php:102
+msgid "hours"
+msgstr "heures"
+
+#: admin/posting.php:132
+msgid "Learn more"
+msgstr "Lire plus"
+
+#: admin/form.php:79 admin/form.php:117
+msgid "Parent Form"
+msgstr "Formulaire parent"
+
+#: admin/form.php:78 admin/form.php:116
+msgid "No Form Found in Trash"
+msgstr "Aucun formulaire trouvé dans la corbeille"
+
+#: admin/form.php:77 admin/form.php:115
+msgid "No Form Found"
+msgstr "Aucun formulaire trouvé"
+
+#: admin/form.php:76 admin/form.php:114
+msgid "Search Form"
+msgstr "Formulaire de recherche"
+
+#: admin/form.php:327
+msgid "Post Fields"
+msgstr "Champs d’article"
+
+#: admin/form.php:84
+msgid "Registraton Forms"
+msgstr "Formulaires d’enregistrement"
+
+#: admin/form.php:288 admin/form.php:293
+msgid "- Select -"
+msgstr "- Sélectionner -"
+
+#: admin/form.php:333
+msgid "Taxonomies"
+msgstr "Taxonomies"
+
+#: includes/fields/class-abstract-fields.php:468
+msgid "Selection Terms"
+msgstr "Conditions de sélection "
+
+#: admin/form.php:224
+msgid "Submission Restriction"
+msgstr "Restriction de soumission"
+
+#: admin/form.php:226
+msgid "Display Settings"
+msgstr "Réglages d’affichage"
+
+#: admin/form.php:222
+msgid "Post Settings"
+msgstr "Réglages de la publication"
+
+#: admin/form.php:223
+msgid "Edit Settings"
+msgstr "Réglages de modification"
+
+#: admin/html/whats-new.php:725
+msgid "After releasing version 2.9.3, WooCommerce gallery image field stopped working. You will get it fixed in this version."
+msgstr "Après la sortie de la version 2.9.3, le champ des images de la galerie WooCommerce a cessé de fonctionner. Vous obtiendrez le correctif dans cette version."
+
+#: class/transactions-list-table.php:15
+msgid "transaction"
+msgstr "transaction"
+
+#: includes/free/form-element.php:163
+msgid " Learn more about Multistep"
+msgstr "En savoir plus sur le multi-étapes"
+
+#: templates/wc-marketplace/post-listing.php:3
+#: templates/dokan/post-listing.php:3
+msgid "+ Add Post"
+msgstr "+ Ajouter une publication"
+
+#: wpuf.php:108
+msgid "</strong> or greater."
+msgstr "</strong> ou supérieur."
+
+#: wpuf-functions.php:2234
+msgid "Algerian Dinar"
+msgstr "Dinar algérien"
+
+#: wpuf-functions.php:2179
+msgid "Argentine Peso"
+msgstr "Peso argentin"
+
+#: wpuf-functions.php:2174
+msgid "Australian Dollars"
+msgstr "Dollars australiens"
+
+#: wpuf-functions.php:2184
+msgid "Bangladeshi Taka"
+msgstr "Taka bangladais"
+
+#: wpuf-functions.php:2189
+msgid "Brazilian Real"
+msgstr "Réal brésilien"
+
+#: wpuf-functions.php:2194
+msgid "Bulgarian Lev"
+msgstr "Lev bulgare"
+
+#: wpuf-functions.php:2199
+msgid "Canadian Dollars"
+msgstr "Dollars canadiens"
+
+#: wpuf-functions.php:2204
+msgid "Chilean Peso"
+msgstr "Peso chilien"
+
+#: wpuf-functions.php:2209
+msgid "Chinese Yuan"
+msgstr "Yuan chinois"
+
+#: wpuf-functions.php:2214
+msgid "Colombian Peso"
+msgstr "Peso colombien"
+
+#: views/welcome-page.php:445 views/welcome-page.php:586
+msgid "Create Your First Form"
+msgstr "Créer votre premier formulaire"
+
+#: wpuf-functions.php:2249
+msgid "Croatia kuna"
+msgstr "Kuna croate"
+
+#: wpuf-functions.php:2219
+msgid "Czech Koruna"
+msgstr "Couronne tchèque"
+
+#: wpuf-functions.php:2224
+msgid "Danish Krone"
+msgstr "Couronne danoise"
+
+#: wpuf-functions.php:2229
+msgid "Dominican Peso"
+msgstr "Peso dominicain"
+
+#: wpuf-functions.php:2031
+msgid "Edit Profile"
+msgstr "Modifier le profil"
+
+#: wpuf-functions.php:2429
+msgid "Egyptian Pound"
+msgstr "Livre égyptienne"
+
+#: wpuf-functions.php:2239
+msgid "Euros"
+msgstr "Euros"
+
+#: templates/registration-form.php:35
+msgid "First"
+msgstr "Premier"
+
+#: templates/dashboard/edit-profile.php:15
+msgid "First Name "
+msgstr "Prénom "
+
+#: wpuf-functions.php:2244
+msgid "Hong Kong Dollar"
+msgstr "Dollar hongkongais"
+
+#: wpuf-functions.php:2254
+msgid "Hungarian Forint"
+msgstr "Forint hongrois"
+
+#: wpuf-functions.php:2259
+msgid "Icelandic krona"
+msgstr "Couronne islandaise"
+
+#: lib/appsero/Insights.php:747
+msgid "If you have a moment, please let us know why you are deactivating:"
+msgstr "Si vous avez un moment, veuillez nous faire savoir pourquoi vous désactivez :"
+
+#: wpuf-functions.php:2269
+msgid "Indian Rupee"
+msgstr "Roupie indienne"
+
+#: wpuf-functions.php:2264
+msgid "Indonesia Rupiah"
+msgstr "Roupie indonésienne"
+
+#: wpuf-functions.php:2339
+msgid "Iranian Rial"
+msgstr "Toman iranien"
+
+#: wpuf-functions.php:2284
+msgid "Israeli Shekel"
+msgstr "Shekel israélien"
+
+#: wpuf-functions.php:2289
+msgid "Japanese Yen"
+msgstr "Yen japonais"
+
+#: wpuf-functions.php:2294
+msgid "Lao Kip"
+msgstr "Kip laotien"
+
+#: templates/registration-form.php:40
+msgid "Last"
+msgstr "Derrnier"
+
+#: templates/dashboard/edit-profile.php:24
+msgid "Last Name "
+msgstr "Nom "
+
+#: wpuf-functions.php:2304
+msgid "Malaysian Ringgits"
+msgstr "Ringgit malaisien"
+
+#: wpuf-functions.php:2309
+msgid "Mexican Peso"
+msgstr "Peso mexicain"
+
+#: wpuf-functions.php:2279
+msgid "Nepali Rupee"
+msgstr "Roupie népalaise"
+
+#: wpuf-functions.php:2324
+msgid "New Zealand Dollar"
+msgstr "Dollar néo-zélandais"
+
+#: wpuf-functions.php:2314
+msgid "Nigerian Naira"
+msgstr "Naira nigérien"
+
+#: templates/submit-post.php:3
+msgid "No post form assigned yet by the administrator."
+msgstr "Aucun formulaire n’a encore été attribué par l’administrateur."
+
+#: wpuf-functions.php:3331
+msgid "None"
+msgstr "Aucun"
+
+#: wpuf-functions.php:2319
+msgid "Norwegian Krone"
+msgstr "Couronne norvégienne"
+
+#: wpuf-functions.php:2334
+msgid "Omani Rial"
+msgstr "Rial omanais"
+
+#: wpuf-functions.php:2344
+msgid "Pakistani Rupee"
+msgstr "Roupie indienne"
+
+#: wpuf-functions.php:2349
+msgid "Paraguayan Guaraní"
+msgstr "Guaraní paraguayen"
+
+#: wpuf-functions.php:2354
+msgid "Philippine Pesos"
+msgstr "Pesos philippin"
+
+#: wpuf-functions.php:2359
+msgid "Polish Zloty"
+msgstr "Zloty polonais"
+
+#: wpuf-functions.php:2364
+msgid "Pounds Sterling"
+msgstr "Livres Sterling"
+
+#: views/welcome-page.php:446 views/welcome-page.php:587
+msgid "Read the Full Guide"
+msgstr "Lire le guide complet"
+
+#: wpuf-functions.php:2369
+msgid "Romanian Leu"
+msgstr "Leu roumain"
+
+#: wpuf-functions.php:2374
+msgid "Russian Ruble"
+msgstr "Rouble russe"
+
+#: wpuf-functions.php:2379
+msgid "Saudi Riyal"
+msgstr "Rial saoudien"
+
+#: wpuf-functions.php:2384
+msgid "Singapore Dollar"
+msgstr "Dollar singapourien"
+
+#: wpuf-functions.php:2389
+msgid "South African rand"
+msgstr "Rand sud-africain"
+
+#: wpuf-functions.php:2299
+msgid "South Korean Won"
+msgstr "Won sud-coréen"
+
+#: wpuf-functions.php:2394
+msgid "Swedish Krona"
+msgstr "Couronne suédoise"
+
+#: wpuf-functions.php:2399
+msgid "Swiss Franc"
+msgstr "Franc suisse"
+
+#: wpuf-functions.php:2404
+msgid "Taiwan New Dollars"
+msgstr "Nouveaux dollars taïwanais"
+
+#: wpuf-functions.php:2409
+msgid "Thai Baht"
+msgstr "Baht thaïlandais"
+
+#: wpuf-functions.php:2414
+msgid "Turkish Lira"
+msgstr "Lire turque"
+
+#: wpuf-functions.php:2419
+msgid "US Dollar"
+msgstr "Dollar américain"
+
+#: wpuf-functions.php:2169
+msgid "United Arab Emirates Dirham"
+msgstr "Dirham des Emirats Arabes Unis"
+
+#: templates/login-form.php:23
+msgid "Username or Email"
+msgstr "Identifiant ou e-mail"
+
+#: wpuf-functions.php:2424
+msgid "Vietnamese Dong"
+msgstr "Dong vietnamien"
+
+#: templates/wc-marketplace/new-post.php:7 templates/dokan/new-post.php:7
+#: templates/wc-vendors/new-post.php:7
+msgid "You are not allowed to submit post. Please contact admin"
+msgstr "Vous n’êtes pas autorisé à soumettre une publication. Veuillez contacter l’administrateur"
+
+#: wpuf.php:107
+msgid "Your installed PHP Version is: "
+msgstr "Votre version de PHP installée est : "
+
+#: wpuf.php:720
+msgid "Please Cancel Your Currently Active Pack first!"
+msgstr "Veuillez d’abord annuler votre forfait actuellement actif !"
+
+#: wpuf.php:887
+msgid "Error: Nonce verification failed"
+msgstr "Erreur : échec de vérification de nonce"
+
+#: templates/registration-form.php:19
+msgid "Registration has been successful!"
+msgstr "L’inscription a réussi !"
+
+#: templates/dashboard/posts.php:185
+msgid "Are you sure to delete?"
+msgstr "Confirmez-vous vouloir supprimer ?"
+
+#: templates/dashboard/edit-profile.php:65
+msgid "Confirm New Password"
+msgstr "Confirmez le nouveau mot de passe"
+
+#: templates/dashboard/posts.php:145 templates/dashboard.php:233
+msgid "Not Applicable"
+msgstr "Non applicable"
+
+#: includes/free/class-login.php:873
+msgid "Congrats! Your account has been activated. To login visit the following url:"
+msgstr "Félicitations ! Votre compte a été activé. Pour vous connecter, visiter l’URL suivante :"
+
+#: templates/dashboard/billing-address.php:125
+#: includes/class-billing-address.php:236
+msgid "Address Line 1 "
+msgstr "Adresse ligne 1 "
+
+#: class/asset-loader.php:49 wpuf.php:714
+msgid "Are you sure you want to cancel your current subscription ?"
+msgstr "Confirmez-vous vouloir annuler votre adhésion actuelle ?"
+
+#: templates/dashboard/billing-address.php:32
+#: includes/class-billing-address.php:321
+msgid "Billing address is updated."
+msgstr "L’adresse de facturation est mise à jour."
+
+#: admin/settings-options.php:357
+msgid "Redirect After Login"
+msgstr "Rediriger après connexion"
+
+#: admin/settings-options.php:89
+msgid "Show Admin Bar"
+msgstr "Afficher la barre d’administration"
+
+#: templates/dashboard/billing-address.php:161
+#: includes/class-billing-address.php:278
+msgid "Update Billing Address"
+msgstr "Mettre à jour l’adresse de facturation"
+
+#: wpuf-functions.php:36 wpuf-functions.php:67
+msgid "Scheduled"
+msgstr "Programmé"
+
+#: wpuf-functions.php:39
+msgid "Private"
+msgstr "Privé"
+
+#: templates/reset-pass-form.php:14
+msgid "New password"
+msgstr "Nouveau mot de passe"
+
+#: templates/reset-pass-form.php:19
+msgid "Confirm new password"
+msgstr "Confirmer le nouveau mot de passe"
+
+#: wpuf-functions.php:510
+msgid "Images"
+msgstr "Images"
+
+#: wpuf-functions.php:522
+msgid "PDF"
+msgstr "PDF"
+
+#: templates/dashboard/posts.php:230 templates/dashboard.php:319
+msgid "No %s found"
+msgstr "Aucun %s trouvé."
+
+#: wpuf-functions.php:58 admin/post-forms-list-table.php:44
+msgid "Published"
+msgstr "Publié"
+
+#: wpuf-functions.php:61 admin/post-forms-list-table.php:429
+msgid "Draft"
+msgstr "Brouillon"
+
+#: class/transactions-list-table.php:91 wpuf-functions.php:64
+msgid "Pending"
+msgstr "En attente"
+
+#: templates/dashboard/posts.php:206 templates/dashboard.php:296
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: templates/dashboard/posts.php:207 templates/dashboard.php:297
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: class/asset-loader.php:46 wpuf.php:711
+msgid "Please fix the errors to proceed"
+msgstr "Veuillez corriger les erreurs pour continuer"
+
+#: wpuf-functions.php:1520
+msgctxt "tag delimiter"
+msgid ","
+msgstr ","
+
+#: wpuf-functions.php:538
+msgid "CSV"
+msgstr "CSV"
+
+#: wpuf-functions.php:534
+msgid "Executable Files"
+msgstr "Fichiers exécutables"
+
+#: wpuf-functions.php:530
+msgid "Zip Archives"
+msgstr "Archives ZIP"
+
+#: wpuf-functions.php:526
+msgid "Office Documents"
+msgstr "Documents Office"
+
+#: wpuf-functions.php:518
+msgid "Videos"
+msgstr "Vidéos"
+
+#: wpuf-functions.php:514
+msgid "Audio"
+msgstr "Son"
+
+#: wpuf-functions.php:210 wpuf-functions.php:2055
+msgid "-- select --"
+msgstr "-- Sélectionner --"
+
+#: wpuf-functions.php:33
+msgid "Awaiting Approval"
+msgstr "En attente d’approbation"
+
+#: wpuf-functions.php:30
+msgid "Offline"
+msgstr "Hors ligne"
+
+#: wpuf-functions.php:27
+msgid "Live"
+msgstr "Direct"
+
+#: templates/logged-in.php:10
+msgid "You are currently logged in! %s?"
+msgstr "Vous êtes actuellement connecté ! %s ?"
+
+#: templates/logged-in.php:8
+msgid "Hello, %s"
+msgstr "Bonjour %s"
+
+#: templates/dashboard/posts.php:147 templates/dashboard.php:235
+msgid "Pay Now"
+msgstr "Payer maintenant"
+
+#: templates/dashboard/posts.php:132 templates/dashboard.php:173
+msgid "Permalink to %s"
+msgstr "Permalien vers %s"
+
+#: templates/dashboard/posts.php:118 templates/dashboard.php:159
+msgid "No Image"
+msgstr "Aucune image"
+
+#: templates/dashboard/posts.php:57
+msgid "You have created <span>%d</span> %s"
+msgstr "Vous avez créé <span>%d</span> %s"
+
+#: templates/dashboard.php:4
+msgid "%s's Dashboard"
+msgstr "Tableau de bord de %s"
+
+#: lib/gateway/paypal.php:110
+msgid "PayPal API signature"
+msgstr "Signature d’API PayPal"
+
+#: lib/gateway/paypal.php:106
+msgid "PayPal API password"
+msgstr "Mot de passe d’API PayPal"
+
+#: lib/gateway/paypal.php:95
+msgid "PayPal Instruction"
+msgstr "Instructions PayPal"
+
+#: lib/gateway/paypal.php:90
+msgid "PayPal Email"
+msgstr "E-mail PayPal"
+
+#: lib/gateway/bank.php:110
+msgid "Thanks for being with us."
+msgstr "Merci d’être avec nous."
+
+#: lib/gateway/bank.php:108
+msgid "Hello %s,"
+msgstr "Bonjour %s,"
+
+#: lib/gateway/bank.php:85
+msgid "[%s] New Bank Order Received"
+msgstr "[%s] Nouvel ordre bancaire reçu"
+
+#: lib/gateway/bank.php:35
+msgid "Bank Payment Success Page"
+msgstr "Page de résussite du paiement"
+
+#: lib/gateway/bank.php:28
+msgid "Bank Instruction"
+msgstr "Instruction bancaire"
+
+#: includes/free/subscription.php:12
+msgid "Enable Recurring Payment"
+msgstr "Activer le paiement récurrent "
+
+#: lib/gateway/paypal.php:60
+msgid "Subscription %s at %s"
+msgstr "Abonnement %s à %s"
+
+#: includes/free/loader.php:153
+msgid "This feature is only available in the Pro Version."
+msgstr "Cette fonctionnalité est uniquement disponible pour la version Pro."
+
+#: includes/free/loader.php:126 includes/free/loader.php:157
+msgid "Upgrade to Pro Version"
+msgstr "Mettre à niveau à la version Pro"
+
+#: includes/free/loader.php:149
+msgid "Use Coupon codes for subscription for discounts."
+msgstr "Utilisez des codes promo pour des rabais sur l’abonnement."
+
+#: includes/free/loader.php:199
+msgid "Upgrade to Pro"
+msgstr "Mettre à niveau vers Pro"
+
+#: wpuf.php:193
+msgid "Your Post Has Been Expired"
+msgstr "Votre publication a expiré"
+
+#: templates/lost-pass-form.php:21
+msgid "Get New Password"
+msgstr "Générer un nouveau mot de passe"
+
+#: lib/gateway/paypal.php:102
+msgid "PayPal API username"
+msgstr "Identifiant d’API PayPal"
+
+#: lib/gateway/bank.php:109
+msgid "We have received your bank payment."
+msgstr "Nous avons reçu votre virement bancaire."
+
+#: lib/gateway/bank.php:86
+msgid "New bank order received at %s, please check it out: %s"
+msgstr "Nouvel ordre bancaire reçu sur %s, veuillez le vérifier : %s"
+
+#: includes/free/loader.php:104 admin/premium.php:10
+msgid "Pro Features"
+msgstr "Fonctionnalités Pro"
+
+#: includes/free/form-element.php:237 includes/free/form-element.php:272
+msgid "Subject"
+msgstr "Sujet"
+
+#: includes/free/form-element.php:242 includes/free/form-element.php:277
+msgid "Message"
+msgstr "Message"
+
+#: class/transactions-list-table.php:55 includes/free/form-element.php:13
+msgid "Date"
+msgstr "Date"
+
+#: class/transactions-list-table.php:118 class/transactions-list-table.php:195
+msgid "Reject"
+msgstr "Rejeter"
+
+#: class/render-form.php:1317 templates/registration-form.php:68
+#: includes/free/edit-profile.php:200
+msgid "Confirm Password"
+msgstr "Confirmez le mot de passe"
+
+#: includes/free/edit-profile.php:103
+msgid "Usernames cannot be changed."
+msgstr "Les identifiants ne peuvent être modifiés."
+
+#: includes/free/edit-profile.php:159
+msgid "Contact Info"
+msgstr "Informations de contact"
+
+#: includes/free/edit-profile.php:185
+msgid "About Yourself"
+msgstr "À propos de vous"
+
+#: includes/free/edit-profile.php:191
+msgid "Share a little biographical information to fill out your profile. This may be shown publicly."
+msgstr "Donnez quelques informations biographiques pour remplir votre profil. Ceci peut être affiché publiquement."
+
+#: templates/dashboard/edit-profile.php:55 includes/free/edit-profile.php:194
+msgid "New Password"
+msgstr "Nouveau mot de passe"
+
+#: includes/free/edit-profile.php:202
+msgid "Type your new password again."
+msgstr "Veuillez saisir à nouveau votre nouveau mot de passe."
+
+#: class/render-form.php:1339 templates/dashboard/edit-profile.php:71
+#: includes/free/edit-profile.php:209
+msgid "Strength indicator"
+msgstr "Indicateur de robustesse"
+
+#: includes/free/edit-profile.php:116 includes/free/edit-profile.php:163
+msgid "(required)"
+msgstr "(obligatoire)"
+
+#: templates/dashboard/posts.php:98 templates/dashboard.php:139
+#: includes/fields/class-abstract-fields.php:618 admin/template.php:377
+#: admin/template.php:401 admin/template.php:432 admin/template.php:463
+msgid "Options"
+msgstr "Options"
+
+#: includes/free/edit-user.php:179
+msgid "Role"
+msgstr "Rôle"
+
+#: includes/fields/class-abstract-fields.php:269
+msgid "Medium"
+msgstr "Moyen"
+
+#: admin/class-tools.php:336 admin/class-tools.php:340
+msgid "Reset Settings"
+msgstr "Réinitialiser les réglages"
+
+#: class/upload.php:265 wpuf-functions.php:1028
+msgid "Caption"
+msgstr "Légende"
+
+#: class/frontend-dashboard.php:136 includes/free/edit-user.php:102
+msgid "%s"
+msgstr "%s"
+
+#: templates/dashboard/edit-profile.php:131 includes/free/edit-profile.php:233
+#: includes/free/form-element.php:356
+msgid "Update Profile"
+msgstr "Mettre à jour votre profil"
+
+#: includes/free/edit-user.php:263
+msgid "<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the <a href=\"mailto:%s\">webmaster</a> !"
+msgstr "<strong>ERREUR</strong>: Impossible de vous enregistrer... veuillez contacter le <a href=\"mailto:%s\">webmaster</a> !"
+
+#: class/transactions-list-table.php:117 class/transactions-list-table.php:194
+msgid "Accept"
+msgstr "Accepter"
+
+#: admin/class-tools.php:58 admin/class-tools.php:124 admin/tools.php:17
+msgid "Export"
+msgstr "Exporter"
+
+#: admin/tools.php:15
+msgid "Import"
+msgstr "Importer"
+
+#: class/subscription.php:919
+msgid "Sign Up"
+msgstr "Abonnez-vous"
+
+#: class/upload.php:264 templates/dashboard/posts.php:89
+#: templates/dashboard.php:104 includes/fields/class-field-sectionbreak.php:55
+#: includes/fields/class-field-recaptcha.php:147 wpuf-functions.php:1024
+#: admin/template.php:520 admin/template.php:578 admin/template.php:656
+msgid "Title"
+msgstr "Titre"
+
+#: class/transactions-list-table.php:43
+msgid "ID"
+msgstr "ID"
+
+#: class/payment.php:22 class/payment.php:23
+msgid "PayPal"
+msgstr "PayPal"
+
+#: admin/class-tools.php:358 admin/transactions.php:2
+#: admin/class-admin-settings.php:105
+msgid "Transactions"
+msgstr "Transactions"
+
+#: includes/free/form-element.php:34
+#: includes/fields/class-pro-upgrade-fields.php:71 admin/premium.php:37
+msgid "Action Hook"
+msgstr "Crochets d’action"
+
+#: includes/free/form-element.php:9 includes/fields/class-field-image.php:9
+msgid "Image Upload"
+msgstr "Mise en ligne d’image"
+
+#: includes/free/loader.php:107
+msgid "Registration form builder is a two way form which can be used both for <strong>user registration</strong> and <strong>profile editing</strong>."
+msgstr "Le constructeur de formulaire d'inscription est un formulaire à deux usages qui peut être utilisé à la fois pour <strong>l’enregistrement de l’utilisateur</strong> et <strong>la modification de profil</strong>."
+
+#: includes/free/form-element.php:496 includes/class-pro-upgrades.php:109
+#: admin/premium.php:71 admin/premium.php:74
+msgid "Conditional Logic"
+msgstr "Logique conditionnelle"
+
+#: includes/free/form-element.php:464
+msgid "Update Button text"
+msgstr "Texte du bouton de mise à jour"
+
+#: includes/free/form-element.php:457
+msgid "Submit Button text"
+msgstr "Texte du bouton de soumission"
+
+#: includes/free/form-element.php:420
+msgid "Update profile message"
+msgstr "Message de mise à jour du profil"
+
+#: includes/free/form-element.php:413
+msgid "Registration success message"
+msgstr "Message d'inscription réussie"
+
+#: includes/free/form-element.php:372
+msgid "New User Role"
+msgstr "Rôle attribué au nouvel utilisateur"
+
+#: includes/free/form-element.php:364
+msgid "Enable Email Verfication"
+msgstr "Activer la vérification d’e-mail"
+
+#: includes/free/form-element.php:352
+msgid "Profile updated successfully"
+msgstr "Mise à jour du profil réussie"
+
+#: includes/free/form-element.php:351
+msgid "Registration successful"
+msgstr "Inscription réussie"
+
+#: includes/free/form-element.php:223 includes/free/form-element.php:261
+msgid "Enable post notification"
+msgstr "Activer la notification d’article"
+
+#: includes/free/form-element.php:211
+msgid "A post has been edited"
+msgstr "Un article a été modifié"
+
+#: includes/free/form-element.php:206
+msgid "New post created"
+msgstr "Nouvel article créé"
+
+#: includes/free/form-element.php:177
+msgid "Choose how you want the progressbar"
+msgstr "Choisissez comment vous voulez la barre de progression"
+
+#: includes/free/form-element.php:167
+msgid "Multistep Progressbar Type"
+msgstr "Type de barre de progression à étapes multiples"
+
+#: includes/free/form-element.php:162
+msgid "If checked, form will be displayed in frontend in multiple steps"
+msgstr "Si cochée, le formulaire sera affiché dans l’interface utilisateur en multiples étapes"
+
+#: includes/free/form-element.php:155 includes/free/form-element.php:159
+msgid "Enable Multistep"
+msgstr "Activer les multiples étapes"
+
+#: includes/free/form-element.php:129
+msgid "Send Email to Author After Exceeding Post Expiration Time"
+msgstr "Envoyer un e-mail à l’auteur après le dépassement du délai d’expiration"
+
+#: includes/free/form-element.php:35
+msgid "Term &amp; Conditions"
+msgstr "Conditions générales"
+
+#: includes/free/form-element.php:33
+#: includes/fields/class-pro-upgrade-fields.php:148
+msgid "Really Simple Captcha"
+msgstr "Really Simple Captcha"
+
+#: includes/free/form-element.php:32
+#: includes/fields/class-field-recaptcha.php:9
+msgid "reCaptcha"
+msgstr "reCaptcha"
+
+#: includes/free/form-element.php:19
+#: includes/fields/class-pro-upgrade-fields.php:170
+msgid "Step Start"
+msgstr "Étape de départ"
+
+#: includes/free/form-element.php:18
+#: includes/fields/class-pro-upgrade-fields.php:8
+msgid "Address Field"
+msgstr "Champ adresse"
+
+#: includes/free/form-element.php:17
+#: includes/fields/class-pro-upgrade-fields.php:82
+#: includes/fields/class-field-numeric.php:7
+msgid "Numeric Field"
+msgstr "Champ numérique"
+
+#: includes/free/form-element.php:16
+#: includes/fields/class-pro-upgrade-fields.php:19 admin/premium.php:33
+msgid "Country List"
+msgstr "Liste de pays"
+
+#: includes/free/form-element.php:15
+msgid "Google Maps"
+msgstr "Carte Google"
+
+#: includes/free/form-element.php:14
+#: includes/fields/class-pro-upgrade-fields.php:49 admin/premium.php:42
+msgid "File Upload"
+msgstr "Mise en ligne de fichiers"
+
+#: includes/free/form-element.php:12
+#: includes/fields/class-pro-upgrade-fields.php:137
+msgid "Repeat Field"
+msgstr "Répéter le champ"
+
+#: includes/free/edit-user.php:145
+msgid "User Added"
+msgstr "Utilisateur ajouté"
+
+#: includes/free/edit-user.php:123 includes/free/edit-user.php:196
+msgid "Add New User"
+msgstr "Ajouter un nouvel utilisateur"
+
+#: includes/free/edit-user.php:81
+msgid "User Deleted"
+msgstr "Utilisateur supprimé"
+
+#: includes/free/edit-user.php:37
+msgid "You don't have permission for this purpose"
+msgstr "Vous n'avez pas la permission de faire cela"
+
+#: includes/free/edit-user.php:23 includes/free/edit-user.php:26
+msgid "User doesn't exists"
+msgstr "L’utilisateur n’existe pas"
+
+#: includes/free/edit-profile.php:270
+msgid "Lock Reason:"
+msgstr "Raison du bloquage :"
+
+#: includes/free/edit-profile.php:266
+msgid "Lock user from creating new post."
+msgstr "Bloquer l’utilisateur pour la création de nouvel article."
+
+#: includes/free/edit-profile.php:260
+msgid "Lock Post:"
+msgstr "Blocage d’article :"
+
+#: includes/free/edit-profile.php:257
+msgid "WPUF Post Lock"
+msgstr "Blocage d’article WPUF"
+
+#: includes/free/edit-profile.php:207
+msgid "Password Strength"
+msgstr "Force du mot de passe"
+
+#: includes/free/edit-profile.php:121
+msgid "Display to Public as"
+msgstr "Afficher au public comme"
+
+#: includes/free/edit-profile.php:73
+msgid "<strong>Success</strong>: Profile updated"
+msgstr "<strong>Succès :</strong> profil mis à jour"
+
+#: admin/class-tools.php:345
+msgid "Delete Forms"
+msgstr "Supprimer les formulaires"
+
+#: admin/class-tools.php:311
+msgid "All transactions has been deleted!"
+msgstr "Toutes les transactions ont été supprimées !"
+
+#: admin/class-tools.php:303
+msgid "All forms has been deleted"
+msgstr "Tous les formulaires ont été supprimés"
+
+#: admin/class-tools.php:140
+msgid "Import forms"
+msgstr "Importer des formulaires"
+
+#. translators: %s: subscription link
+#: class/subscription.php:1050
+msgid "You must <a href=\"%s\">purchase a pack</a> before posting"
+msgstr "Vous devez <a href=\"%s\">acheter un pack</a> avant de publier"
+
+#: class/subscription.php:915
+msgid "Buy Now"
+msgstr "Acheter maintenant"
+
+#: class/subscription.php:895
+msgid "One time payment"
+msgstr "Paiement en une seule fois"
+
+#: class/subscription.php:809
+msgid "<p><i>You have a subscription pack activated. </i></p>"
+msgstr "<p><i>Vous avez un pack d’abonnement activé.</i></p>"
+
+#: class/subscription.php:439
+msgid "Parent Subscription"
+msgstr "Abonnement parent :"
+
+#: class/subscription.php:438
+msgid "No Subscription Found in Trash"
+msgstr "Aucun abonnement trouvé dans la corbeille"
+
+#: class/subscription.php:437
+msgid "No Subscription Found"
+msgstr "Aucun abonnement trouvé"
+
+#: class/subscription.php:436
+msgid "Search Subscription"
+msgstr "Rechercher un abonnement"
+
+#: class/subscription.php:434 class/subscription.php:435
+msgid "View Subscription"
+msgstr "Voir l’abonnement"
+
+#: class/subscription.php:433
+msgid "New Subscription"
+msgstr "Nouvel abonnement"
+
+#: class/subscription.php:432
+msgid "Edit Subscription"
+msgstr "Modifier l’abonnement"
+
+#: class/subscription.php:430
+msgid "Add New Subscription"
+msgstr "Ajouter un nouvel abonnement"
+
+#: class/subscription.php:429
+msgid "Add Subscription"
+msgstr "Ajouter un abonnement"
+
+#: class/subscription.php:782
+msgid "Congratulations, your payment has been completed!"
+msgstr "Félicitations, votre paiement a été effectué !"
+
+#: class/subscription.php:782
+msgid "Payment is complete"
+msgstr "Le paiement est finalisé"
+
+#: class/frontend-account.php:307
+msgid "Nonce failure"
+msgstr "Échec de Nonce"
+
+#: class/render-form.php:1401 includes/fields/class-field-post-taxonomy.php:127
+#: includes/fields/class-field-post-taxonomy.php:258 wpuf-functions.php:1808
+msgid "-- Select --"
+msgstr "-- Sélectionner --"
+
+#: class/render-form.php:136 includes/class-frontend-render-form.php:128
+msgid "reCAPTCHA validation failed"
+msgstr "La validation du reCAPTCHA a échoué"
+
+#: class/render-form.php:87 includes/class-frontend-render-form.php:82
+msgid "Really Simple Captcha validation failed"
+msgstr "La validation Really Simple Captcha a échoué !"
+
+#. translators: %s is site title name
+#: class/payment.php:499
+msgid "New payment received at %s"
+msgstr "Nouveau paiement reçu sur %s"
+
+#. translators: %s is site title name
+#: lib/gateway/bank.php:107 class/payment.php:497
+msgid "[%s] Payment Received"
+msgstr "[%s] Paiement reçu"
+
+#: class/payment.php:307
+msgid "No Payment gateway found"
+msgstr "Aucune passerelle de paiement trouvée"
+
+#: class/payment.php:262
+msgid "Choose Your Payment Method"
+msgstr "Choisissez votre mode de paiement"
+
+#: class/payment.php:220
+msgid "Have a discount code?"
+msgstr "Un code promo ?"
+
+#: class/payment.php:216
+msgid "Apply Coupon"
+msgstr "Appliquer un coupon"
+
+#: class/payment.php:198
+msgid "Pack Price "
+msgstr "Prix du pack"
+
+#: class/payment.php:197
+msgid "Selected Pack "
+msgstr "Pack sélectionné"
+
+#: class/payment.php:180
+msgid "Change Pack"
+msgstr "Changer de pack"
+
+#: class/payment.php:178
+msgid "Pricing & Plans"
+msgstr "Pack et plans"
+
+#: class/payment.php:128
+msgid "You already have activated a free package previously."
+msgstr "Vous avez déjà activé un forfait gratuit précédemment."
+
+#: class/payment.php:126
+msgid "Your free package has been activated. Enjoy!"
+msgstr "Votre forfait gratuit a été activé. Profitez-en bien !"
+
+#: class/payment.php:72
+msgid "Please select your payment page from admin panel"
+msgstr "Veuillez sélectionner votre page de paiement dans le panneau d’administration"
+
+#: class/payment.php:27 class/payment.php:28
+msgid "Bank Payment"
+msgstr "Paiement bancaire"
+
+#: includes/class-frontend-form-post.php:125
+msgid "You can't edit a post while in pending mode."
+msgstr "Vous ne pouvez pas modifier un article lorsqu’il est en attente de relecture."
+
+#: includes/class-frontend-form-post.php:113
+msgid "I don't know how to edit this post, I don't have the form ID"
+msgstr "Je ne sais pas comment modifier cet article, je n'ai pas l’ID de formulaire"
+
+#: includes/class-frontend-form-post.php:102
+msgid "You are not allowed to edit"
+msgstr "Vous n'êtes pas autorisé à modifier"
+
+#: includes/class-frontend-form-post.php:67
+#: includes/class-frontend-form-post.php:97
+msgid "Invalid post"
+msgstr "Article non valide"
+
+#: includes/class-frontend-form-post.php:91
+msgid "Post Editing is disabled"
+msgstr "La modification d'article est désactivée"
+
+#: includes/class-frontend-form-post.php:57
+msgid "You are not logged in"
+msgstr "Vous n'êtes pas connecté"
+
+#: class/frontend-dashboard.php:132
+msgid "Author Info"
+msgstr "Infos de l’auteur"
+
+#: class/frontend-dashboard.php:74 templates/dashboard/posts.php:39
+msgid "Post Deleted"
+msgstr "Article supprimé"
+
+#: templates/unauthorized.php:4 includes/free/edit-profile.php:32
+#: includes/free/edit-user.php:40
+msgid "This page is restricted. Please %s to view this page."
+msgstr "Cette page est restreinte. Veuillez %s  pour afficher cette page."
+
+#: class/transactions-list-table.php:52
+msgid "Payer"
+msgstr "Payeur"
+
+#: admin/class-tools.php:351
+msgid "Delete Registration Forms"
+msgstr "Supprimer des formulaires d’inscription"
+
+#: admin/class-tools.php:350
+msgid "Delete Post Forms"
+msgstr "Supprimer des formulaires d’article"
+
+#: includes/fields/class-field-hidden.php:52 admin/template.php:558
+msgid "Enter the meta value"
+msgstr "Entrez la valeur de méta."
+
+#: includes/fields/class-field-hidden.php:48 admin/template.php:557
+msgid "Meta Value"
+msgstr "Valeur de méta"
+
+#: admin/template.php:525
+msgid "HTML Codes"
+msgstr "Codes HTML"
+
+#: includes/fields/class-abstract-fields.php:400
+#: includes/fields/class-field-dropdown.php:83 admin/template.php:427
+#: admin/template.php:458
+msgid "Select Text"
+msgstr "Sélectionnez le texte"
+
+#: includes/fields/class-abstract-fields.php:404
+#: includes/fields/class-field-dropdown.php:87 admin/template.php:417
+#: admin/template.php:448
+msgid "First element of the select dropdown. Leave this empty if you don't want to show this field"
+msgstr "Premier élément de la liste déroulante de sélection. Laissez ce champ vide si vous ne voulez pas l’afficher"
+
+#: admin/template.php:285
+msgid "show values"
+msgstr "Afficher les valeurs"
+
+#: includes/fields/class-abstract-fields.php:679 admin/template.php:189
+msgid "Rich textarea"
+msgstr "Zone de texte enrichie"
+
+#: class/frontend-dashboard.php:174 templates/dashboard/posts.php:32
+msgid "You are not the post author. Cheeting huh!"
+msgstr "Vous n’êtes pas l’auteur de l’article. Une fausse manipulation ?"
+
+#: admin/class-tools.php:330
+msgid "Clicking this button will create required pages for the plugin. Note: It'll not delete/replace existing pages."
+msgstr "Cliquer sur ce bouton va créer les pages nécessaires pour l’extension. Remarque : cela va pas supprimer/remplacer des pages existantes."
+
+#: admin/class-tools.php:327
+msgid "Page Installation"
+msgstr "Installation de page"
+
+#: admin/class-tools.php:217
+msgid "Please select some form for exporting"
+msgstr "Veuillez sélectionner un formulaire à exporter"
+
+#: admin/class-tools.php:98
+msgid "Registration Form Export"
+msgstr "Export du formulaire d'inscription"
+
+#: admin/class-tools.php:66 admin/class-tools.php:131
+msgid "Sorry you have no form to export"
+msgstr "Désolé, vous n’avez aucun formulaire à exporter"
+
+#: includes/fields/class-field-image.php:106 admin/template.php:624
+msgid "Max. files"
+msgstr "Fichiers max."
+
+#: includes/fields/class-field-image.php:110 admin/template.php:609
+msgid "Number of images can be uploaded"
+msgstr "Nombre d’images peuvant être mises en ligne"
+
+#: includes/fields/class-abstract-fields.php:680 admin/template.php:190
+msgid "Teeny Rich textarea"
+msgstr "Zone de texte enrichi Teeny"
+
+#: includes/free/edit-user.php:224
+msgid "<strong>ERROR</strong>: Please enter a username"
+msgstr "<strong>Erreur</strong> : veuillez saisir un identifiant"
+
+#: includes/free/edit-user.php:226
+msgid "<strong>ERROR</strong>: This username is invalid because it uses illegal characters. Please enter a valid username"
+msgstr "<strong>Erreur</strong> : cet identifiant n’est pas valide, car il utilise des caractères non autorisés. Veuillez saisir un identifiant valide."
+
+#: includes/free/edit-user.php:229
+msgid "<strong>ERROR</strong>: This username is already registered, please choose another one"
+msgstr "<strong>Erreur</strong> : cet identifiant est déjà enregistré, veuillez en choisir un autre."
+
+#: includes/free/edit-user.php:234
+msgid "<strong>ERROR</strong>: Please type your e-mail address"
+msgstr "<strong>Erreur</strong> : veuillez saisir votre adresse de messagerie"
+
+#: includes/free/edit-user.php:239
+msgid "<strong>ERROR</strong>: This email is already registered, please choose another one"
+msgstr "<strong>Erreur</strong>: cet e-mail est déjà enregistré, veuillez en choisir un autre"
+
+#: includes/free/form-element.php:249
+msgid "Update Post Notification"
+msgstr "Notification de mise à jour de publication"
+
+#: includes/free/form-element.php:215
+msgid "New Post Notification"
+msgstr "Notification de nouvelle publication"
+
+#: includes/class-frontend-form-post.php:567
+msgid ""
+"You already have an account in our site. Please login to continue.\n"
+"\n"
+"Clicking 'OK' will redirect you to the login page and you will lose the form data.\n"
+"Click 'Cancel' to stay at this page."
+msgstr ""
+"Vous avez déjà un compte sur notre site. Veuillez vous connecter pour continuer.\n"
+"\n"
+"Cliquer sur « OK » vous redirigera vers la page de connexion et vous perdrez les données du formulaire.\n"
+"Cliquez sur « Annuler » pour rester sur cette page."
+
+#: admin/template.php:24
+msgid "Remove"
+msgstr "Retirer"
+
+#: admin/settings-options.php:106
+msgid "Default"
+msgstr "Par défaut"
+
+#: includes/fields/class-abstract-fields.php:430 admin/template-post.php:163
+msgid "Count"
+msgstr "Décompte"
+
+#: admin/class-admin-subscription.php:545
+msgid "Day(s)"
+msgstr "Jour(s)"
+
+#: admin/class-admin-subscription.php:546
+msgid "Week(s)"
+msgstr "Semaine(s)"
+
+#: admin/class-admin-subscription.php:547
+msgid "Month(s)"
+msgstr "Mois"
+
+#: class/upload.php:266 includes/fields/class-field-sectionbreak.php:63
+#: wpuf-functions.php:1032 admin/template.php:583
+msgid "Description"
+msgstr "Description"
+
+#: includes/fields/class-abstract-fields.php:458 admin/template-post.php:180
+msgid "Include"
+msgstr "Inclure"
+
+#: includes/fields/class-abstract-fields.php:457 admin/template-post.php:179
+msgid "Exclude"
+msgstr "Exclure"
+
+#: includes/fields/class-abstract-fields.php:678 admin/template.php:188
+msgid "Normal"
+msgstr "Normal"
+
+#: includes/fields/class-abstract-fields.php:384 admin/template-post.php:147
+msgid "Type"
+msgstr "Type"
+
+#: class/transactions-list-table.php:122 class/transactions-list-table.php:199
+#: class/render-form.php:1673 templates/dashboard/posts.php:186
+#: templates/dashboard.php:277 includes/free/edit-user.php:105
+msgid "Delete"
+msgstr "Supprimer"
+
+#: includes/fields/class-abstract-fields.php:567 admin/template.php:127
+msgid "Size"
+msgstr "Taille"
+
+#: includes/fields/class-abstract-fields.php:440 admin/template-post.php:169
+msgid "Order"
+msgstr "Trier"
+
+#: admin/settings-options.php:247
+msgid "Posts per page"
+msgstr "Articles par page"
+
+#: includes/free/edit-user.php:98
+msgid "Action"
+msgstr "Action"
+
+#: admin/settings-options.php:402
+msgid "Currency"
+msgstr "Devise"
+
+#: admin/settings-options.php:159
+msgid "Edit Page"
+msgstr "Modifier la page"
+
+#: admin/class-admin-subscription.php:203
+msgid "Amount"
+msgstr "Montant"
+
+#: includes/fields/class-abstract-fields.php:232 admin/template.php:69
+msgid "Field Label"
+msgstr "Libellé du champ"
+
+#: includes/fields/class-abstract-fields.php:429 admin/template-post.php:162
+msgid "Slug"
+msgstr "Identifiant"
+
+#: includes/fields/class-abstract-fields.php:444 admin/template-post.php:171
+msgid "ASC"
+msgstr "ASC"
+
+#: includes/fields/class-abstract-fields.php:445 admin/template-post.php:172
+msgid "DESC"
+msgstr "DESC"
+
+#: includes/fields/class-abstract-fields.php:645
+#: includes/fields/class-field-column.php:9 admin/template.php:170
+msgid "Columns"
+msgstr "Colonnes"
+
+#: admin/tools.php:13 admin/class-admin-settings.php:108
+msgid "Tools"
+msgstr "Outils"
+
+#: admin/class-admin-subscription.php:206
+msgid "Duration"
+msgstr "Durée"
+
+#: includes/fields/class-abstract-fields.php:636 admin/template.php:165
+msgid "Rows"
+msgstr "Lignes"
+
+#: admin/settings-options.php:470
+msgid "Payment Gateways"
+msgstr "Passerelles de paiements"
+
+#: class/transactions-list-table.php:47
+#: includes/free/post-form-templates/the_events_calendar.php:115
+msgid "Cost"
+msgstr "Coût"
+
+#: admin/settings-options.php:390
+msgid "Select the page where <code>[wpuf_sub_pack]</code> located."
+msgstr "Sélectionnez la page sur laquelle se trouve <code>[wpuf_sub_pack]</code>."
+
+#: admin/settings-options.php:351
+msgid "Select the page which contains <code>[wpuf-login]</code> shortcode"
+msgstr "Sélectionnez la page qui contient  le code court <code>[wpuf-login]</code>"
+
+#: admin/settings-options.php:350
+msgid "Login Page"
+msgstr "Page de connexion"
+
+#: admin/settings-options.php:456
+msgid "Payment Page"
+msgstr "Page de paiement"
+
+#: admin/class-admin-subscription.php:80
+msgid "Subscription pack draft updated."
+msgstr "Pack d’abonnement sauvegardé en brouillon."
+
+#: admin/class-admin-subscription.php:78
+msgid "Subscription pack submitted."
+msgstr "Pack d’abonnement soumis."
+
+#: admin/class-admin-subscription.php:77
+msgid "Subscription pack saved."
+msgstr "Pack d’abonnement enregistré."
+
+#: admin/class-admin-subscription.php:76
+msgid "Subscription pack published."
+msgstr "Pack d’abonnement publié."
+
+#: admin/class-admin-subscription.php:75
+msgid "Subscription pack restored to revision from %s"
+msgstr "Pack d’abonnement restauré à la révision %s"
+
+#: admin/class-admin-subscription.php:71 admin/class-admin-subscription.php:74
+msgid "Subscription pack updated."
+msgstr "Pack d’abonnement mis à jour."
+
+#: admin/settings-options.php:396
+msgid "Subscription at registration"
+msgstr "Formulaire d’abonnement"
+
+#: admin/settings-options.php:389
+msgid "Subscription Pack Page"
+msgstr "Page de pack d’abonnement"
+
+#: includes/fields/class-abstract-fields.php:572 admin/template.php:128
+msgid "Size of this input field"
+msgstr "Taille de ce champ de saisie"
+
+#: includes/fields/class-abstract-fields.php:562
+#: includes/fields/class-abstract-fields.php:670 admin/template.php:123
+msgid "The default value this field will have"
+msgstr "La valeur par défaut que ce champ aura"
+
+#: includes/fields/class-abstract-fields.php:556
+#: includes/fields/class-abstract-fields.php:666 admin/template.php:122
+#: admin/template.php:180
+msgid "Default value"
+msgstr "Valeur par défaut"
+
+#: admin/template.php:93
+msgid "Add a CSS class name for this field"
+msgstr "Ajouter un nom de classe CSS pour ce champ"
+
+#: includes/fields/class-abstract-fields.php:280
+#: includes/fields/class-field-column.php:86 admin/template.php:92
+msgid "CSS Class Name"
+msgstr "Nom de la classe CSS"
+
+#: includes/fields/class-abstract-fields.php:245 admin/template.php:88
+msgid "Give the user some information about this field"
+msgstr "Donnez quelques informations à l'utilisateur à propos de ce champ"
+
+#: includes/fields/class-abstract-fields.php:241 admin/template.php:87
+msgid "Help text"
+msgstr "Texte d’aide"
+
+#: includes/fields/class-abstract-fields.php:319
+#: includes/fields/class-field-hidden.php:39 admin/template.php:75
+#: admin/template.php:550
+msgid "Meta Key"
+msgstr "Clé méta"
+
+#: includes/fields/class-abstract-fields.php:236 admin/template.php:70
+msgid "Enter a title of this field"
+msgstr "Saisissez un titre pour ce champ"
+
+#: admin/template.php:25
+msgid "Toggle"
+msgstr "Basculer"
+
+#: admin/template.php:20
+msgid "Click and Drag to rearrange"
+msgstr "Cliquez et glisser pour réorganiser"
+
+#: admin/template-post.php:256
+msgid "Add Country to List"
+msgstr "Ajouter un pays à la liste"
+
+#: admin/template-post.php:255
+msgid "Show These Countries"
+msgstr "Afficher ces pays"
+
+#: admin/template-post.php:255
+msgid "show"
+msgstr "afficher"
+
+#: admin/template-post.php:251
+msgid "Chose Country to hide from List"
+msgstr "Choisissez les pays à masquer de la liste"
+
+#: admin/template-post.php:250
+msgid "Hide These Countries"
+msgstr "Masquer ces pays"
+
+#: admin/template-post.php:250
+msgid "hide"
+msgstr "masquer"
+
+#: admin/template-post.php:247
+msgid "Show All"
+msgstr "Tout afficher"
+
+#: admin/template-post.php:247
+msgid "all"
+msgstr "tous"
+
+#: includes/fields/class-abstract-fields.php:492 admin/template-post.php:209
+msgid "Visible on product page"
+msgstr "Visible sur la page produit"
+
+#: includes/fields/class-abstract-fields.php:301 admin/template-post.php:203
+msgid "Visibility"
+msgstr "Visibilité"
+
+#: includes/fields/class-abstract-fields.php:481 admin/template-post.php:197
+msgid "This taxonomy is a WooCommerce attribute"
+msgstr "Cette taxinomie est un attribut WooCommerce"
+
+#: admin/template-post.php:191
+msgid "WooCommerce Attribute"
+msgstr "Attribut WooCommerce"
+
+#: admin/template-post.php:186
+msgid "Selection terms"
+msgstr "Termes de sélection"
+
+#: includes/fields/class-abstract-fields.php:459 admin/template-post.php:181
+msgid "Child of"
+msgstr "Enfant de"
+
+#: includes/fields/class-abstract-fields.php:454 admin/template-post.php:177
+msgid "Selection Type"
+msgstr "Type de sélection"
+
+#: includes/fields/class-abstract-fields.php:431 admin/template-post.php:164
+msgid "Term Group"
+msgstr "Groupe de termes"
+
+#: includes/fields/class-abstract-fields.php:428 admin/template-post.php:161
+msgid "Term ID"
+msgstr "ID du terme"
+
+#: includes/fields/class-abstract-fields.php:391 admin/template-post.php:153
+msgid "Ajax"
+msgstr "Ajax"
+
+#: includes/fields/class-abstract-fields.php:390 admin/template-post.php:152
+msgid "Text Input"
+msgstr "Entrée de texte"
+
+#: includes/fields/class-field-featured-image.php:112
+#: includes/fields/class-field-image.php:97 admin/template.php:619
+#: admin/template-post.php:99
+msgid "Max. file size"
+msgstr "Taille max. du fichier"
+
+#: includes/fields/class-field-featured-image.php:116
+#: includes/fields/class-field-image.php:101 admin/template.php:608
+#: admin/template-post.php:88
+msgid "Enter maximum upload size limit in KB"
+msgstr "Entrez la limite maximum de taille demise en ligne en Ko"
+
+#: admin/template.php:136 admin/template.php:199
+msgid "Numebr of words the author to be restricted in"
+msgstr "Nombre de mots auquel l’auteur est restreint dans"
+
+#: admin/template.php:132 admin/template.php:195
+msgid "Word Restriction"
+msgstr "Restriction de mots"
+
+#: includes/fields/class-field-post-content.php:128 admin/template-post.php:36
+msgid "Enable Image Insertion"
+msgstr "Activer l’insertion d’image"
+
+#: admin/class-admin-subscription.php:797
+msgid "Delete Package"
+msgstr "Supprimer le package"
+
+#: admin/class-admin-subscription.php:773
+msgid "Assign Package"
+msgstr "Assigner le forfait"
+
+#: admin/class-admin-subscription.php:681
+msgid "Post Expiration Enabled"
+msgstr "Expiration d’article activée"
+
+#: admin/class-admin-subscription.php:548
+msgid "Year(s)"
+msgstr "Année(s)"
+
+#: includes/free/form-element.php:67 admin/class-admin-subscription.php:428
+#: admin/class-admin-subscription.php:691
+msgid "Post Expiration Time"
+msgstr "Délai d’expiration d’article"
+
+#: admin/class-admin-subscription.php:356
+msgid "Billing amount each cycle:"
+msgstr "Montant de facturation à chaque cycle :"
+
+#: admin/class-admin-subscription.php:355
+msgid "Billing amount:"
+msgstr "Montant de facturation :"
+
+#: admin/class-admin-subscription.php:57
+msgid "Pack Description"
+msgstr "Description du pack"
+
+#: class/subscription.php:345 admin/class-admin-subscription.php:202
+msgid "Pack Name"
+msgstr "Nom du pack"
+
+#: admin/class-admin-settings.php:88
+msgid "User Frontend"
+msgstr "User Frontend"
+
+#: admin/settings-options.php:565
+msgid " - select - "
+msgstr " - sélectionner - "
+
+#: admin/settings-options.php:554
+msgid "Select profile/registration forms for user roles. These forms will be used to populate extra edit profile fields in backend."
+msgstr "Sélectionnez les formulaires de profil/’abonnement pour les rôles d’utilisateur. Ces formulaires seront utilisés pour remplir les champs de profil supplémentaires modifiables dans l'administration."
+
+#: admin/settings-options.php:471
+msgid "Active payment gateways"
+msgstr "Activer les passerelles de paiement"
+
+#: lib/gateway/bank.php:36 admin/settings-options.php:464
+msgid "After payment users will be redirected here"
+msgstr "Les utilisateurs seront redirigés ici après paiement"
+
+#: admin/settings-options.php:463
+msgid "Payment Success Page"
+msgstr "Page de résussite du paiement"
+
+#: admin/settings-options.php:457
+msgid "This page will be used to process payment options"
+msgstr "Cette page sera utilisée pour traiter les options de paiement"
+
+#: admin/settings-options.php:450
+msgid "When sandbox mode is active, all payment gateway will be used in demo mode"
+msgstr "Lorsque le mode sandbox est actif, toutes les passerelles de paiement seront utilisées en mode démo"
+
+#: admin/settings-options.php:449
+msgid "Enable demo/sandbox mode"
+msgstr "Activer le mode Sandbox/démo"
+
+#: includes/free/post-form-templates/the_events_calendar.php:105
+msgid "Currency Symbol"
+msgstr "Symbole de la devise"
+
+#: admin/settings-options.php:149
+msgid "Custom CSS codes"
+msgstr "Codes CSS personnalisés"
+
+#: admin/settings-options.php:207
+msgid "Default Post Form"
+msgstr "Formulaire d'article par défaut"
+
+#: admin/settings-options.php:201
+msgid "Allow users to update image/video title, caption and description"
+msgstr "Permettre aux utilisateurs de mettre à jour la description, la légende et le titre de l’image/vidéo"
+
+#: admin/settings-options.php:200
+msgid "Enable Image Caption"
+msgstr "Activer la légende d’image"
+
+#: admin/settings-options.php:194
+msgid "Image with link"
+msgstr "Image avec lien"
+
+#: admin/settings-options.php:193
+msgid "Image only"
+msgstr "Image uniquement"
+
+#: admin/settings-options.php:134
+msgid "Load scripts/styles in all pages"
+msgstr "Charger les scripts/styles dans toutes les pages"
+
+#: admin/settings-options.php:133
+msgid "Load Scripts"
+msgstr "Charger les scripts"
+
+#: admin/settings-options.php:175
+msgid "Show custom fields on post content area"
+msgstr "Afficher les champs personnalisés dans la zone de contenu de l’article"
+
+#: admin/settings-options.php:174
+msgid "Custom Fields in post"
+msgstr "Champs personnalisés dans l’article"
+
+#: admin/settings-options.php:111
+msgid "Override the post edit link"
+msgstr "Ignorer le lien de modification d’article"
+
+#: admin/settings-options.php:105
+msgid "Admins, Editors, Authors, Contributors"
+msgstr "Administrateurs, éditeurs, auteurs, contributeurs"
+
+#: admin/settings-options.php:104
+msgid "Admins, Editors, Authors"
+msgstr "Administrateurs, éditeurs, auteurs"
+
+#: admin/settings-options.php:103
+msgid "Admins, Editors"
+msgstr "Administrateurs, éditeurs"
+
+#: admin/settings-options.php:102
+msgid "Admin Only"
+msgstr "Uniquement les administrateurs"
+
+#: admin/settings-options.php:97
+msgid "Admin area access"
+msgstr "Accès zone d’administration"
+
+#: admin/settings-options.php:166
+msgid "Default Post Owner"
+msgstr "Propriétaire par défaut de l’article"
+
+#: includes/fields/class-abstract-fields.php:551
+#: includes/fields/class-abstract-fields.php:658 admin/template.php:118
+msgid "Text for HTML5 placeholder attribute"
+msgstr "Texte pour l'attribut de texte indicatif HTML5"
+
+#: includes/fields/class-abstract-fields.php:545
+#: includes/fields/class-abstract-fields.php:654 admin/template.php:117
+#: admin/template.php:175
+msgid "Placeholder text"
+msgstr "Texte du texte indicatif"
+
+#: admin/settings-options.php:344
+msgid "Select the page you want to use as registration page override <em>(should have shortcode)</em>"
+msgstr "Sélectionnez la page que vous souhaitez utiliser pour remplacer la page d’enregistrement <em>(devrait avoir le code court)</em>"
+
+#: admin/settings-options.php:343
+msgid "Registration Page"
+msgstr "Page d’enregistrement"
+
+#: admin/settings-options.php:337
+msgid "If enabled, default login and registration forms will be overridden by WPUF with pages below"
+msgstr "Si activé, les formulaires de connexion et d’enregistrement par défaut seront outrepassés par WPUF avec les pages ci-dessous"
+
+#: admin/settings-options.php:336
+msgid "Login/Registration override"
+msgstr "Outrepasser la connexion/enregistrement"
+
+#: admin/settings-options.php:330
+msgid "If enabled, users after registration will be logged in to the system"
+msgstr "Si activé, les utilisateurs après enregistrement seront connectés au système"
+
+#: admin/settings-options.php:329
+msgid "Auto Login After Registration"
+msgstr "Connexion auto après enregistrement"
+
+#: admin/settings-options.php:281
+msgid "Featured Image size"
+msgstr "Taille de l’image mise en avant"
+
+#: admin/settings-options.php:268
+msgid "Show Featured Image"
+msgstr "Afficher l’image mise en avant"
+
+#: admin/settings-options.php:262
+msgid "Show how many posts are created by the user"
+msgstr "Afficher combien d’articles ont été créés par l’utilisateur"
+
+#: admin/settings-options.php:261
+msgid "Show post count"
+msgstr "Afficher le nombre d’articles"
+
+#: admin/settings-options.php:255
+msgid "Users biographical info will be shown"
+msgstr "Les infos biographiques de l’auteur seront affichées"
+
+#: admin/settings-options.php:254
+msgid "Show user bio"
+msgstr "Afficher la bio de l’utilisateur"
+
+#: admin/settings-options.php:248
+msgid "How many posts will be listed in a page"
+msgstr "Combien d’articles seront listés sur une page"
+
+#: admin/settings-options.php:241
+msgid "Disable post editing while post in \"pending\" status"
+msgstr "Désactiver la modification d’article lorsqu'ils ont l’état « En attente de relecture »"
+
+#: admin/settings-options.php:240
+msgid "Pending Post Edit"
+msgstr "Modification d’article en attente de relecture"
+
+#: admin/settings-options.php:230
+msgid "Users will be able to delete their own posts"
+msgstr "Les utilisateurs pourront supprimer leurs propres articles"
+
+#: admin/settings-options.php:229
+msgid "User can delete post?"
+msgstr "L’utilisateur peut-il supprimer un article ?"
+
+#: admin/settings-options.php:219
+msgid "Users will be able to edit their own posts"
+msgstr "Les utilisateurs pourront modifier leurs propres articles"
+
+#: admin/settings-options.php:218
+msgid "Users can edit post?"
+msgstr "Les utilisateurs peuvent-ils modifier un article ?"
+
+#: admin/settings-options.php:150
+msgid "If you want to add your custom CSS code, it will be added on page header wrapped with style tag"
+msgstr "Si vous souhaitez ajouter votre code CSS personnalisé, il sera ajouté à l’en-tête de page encadré avec la balise de style"
+
+#: admin/settings-options.php:208
+msgid "Fallback form for post editing if no associated form found"
+msgstr "Replier le formulaire pour modification d’article si aucun formulaire associé n’a été trouvé"
+
+#: admin/settings-options.php:190
+msgid "Default image type of \"<strong>Insert Photo</strong>\" button in post content area"
+msgstr "Type d’image par défaut pour le bouton  \"<strong>Insérer une Photo</strong>\" dans la zone de contenu de l’article"
+
+#: admin/settings-options.php:189
+msgid "Insert Photo image type"
+msgstr "Insérer un type d’image photo"
+
+#: admin/settings-options.php:182
+msgid "Default image size of \"<strong>Insert Photo</strong>\" button in post content area"
+msgstr "Taille par défaut de l’image du bouton «<strong>Insérer une photo</strong>» dans la zone de contenu de l’article"
+
+#: admin/settings-options.php:181
+msgid "Insert Photo image size"
+msgstr "Taille de l’image à insérer"
+
+#: admin/settings-options.php:112
+msgid "Users see the edit link in post if s/he is capable to edit the post/page. Selecting <strong>Yes</strong> will override the default WordPress edit post link in frontend"
+msgstr "Les utilisateurs voient le lien de modification d’article si il!/elle est capable de modifier l’article/la page. Sélectionner <strong>Oui</strong> remplace le lien WordPress par défaut pour modifier l’article dans l’interface utilisateur"
+
+#: admin/settings-options.php:167
+msgid "If guest post is enabled and user details are OFF, the posts are assigned to this user"
+msgstr "Si les articles invités sont autorisés et que les détail de l’utilisateur sont désactivés, les articles sont assignés à cet utilisateur"
+
+#: includes/free/edit-user.php:90
+msgid "Are you sure to delete this user?"
+msgstr "Confirmez-vous vouloir supprimer cet utilisateur ?"
+
+#: class/transactions-list-table.php:16
+msgid "transactions"
+msgstr "transactions"
+
+#: includes/fields/class-field-post-content.php:130 admin/template-post.php:42
+msgid "Enable image upload in post area"
+msgstr "Activer le téléversement d’image dans la zone de publication"
+
+#: includes/fields/class-abstract-fields.php:424 admin/template-post.php:158
+msgid "Order By"
+msgstr "Trier par"
+
+#: includes/free/form-element.php:118 admin/class-admin-subscription.php:463
+msgid "Status of post after post expiration time is over "
+msgstr "L'état de l’article après que l’expiration soit atteinte "
+
+#: class/subscription.php:431 templates/dashboard/posts.php:177
+#: templates/dashboard.php:268 includes/free/edit-user.php:104
+#: includes/free/admin/shortcode-button.php:87 admin/installer.php:86
+#: admin/post-forms-list-table.php:406 admin/form.php:71 admin/form.php:109
+msgid "Edit"
+msgstr "Modifier"
+
+#: templates/registration-form.php:30 includes/free/edit-profile.php:98
+#: includes/fields/class-abstract-fields.php:427
+#: admin/html/form-submission-restriction.php:11 admin/template-post.php:160
+msgid "Name"
+msgstr "Nom"
+
+#: includes/free/edit-profile.php:168
+msgid "Website"
+msgstr "Site Web"
+
+#: includes/free/edit-profile.php:116
+msgid "Nickname"
+msgstr "Pseudonyme"
+
+#: includes/free/edit-profile.php:189
+msgid "Biographical Info"
+msgstr "Renseignements biographiques"
+
+#: includes/free/admin/shortcode-button.php:79 wpuf-functions.php:2023
+#: admin/installer.php:84 admin/settings-options.php:24
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+#: includes/free/edit-profile.php:163
+msgid "E-mail"
+msgstr "E-mail"
+
+#: admin/html/form-settings-post-edit.php:7
+msgid "Update"
+msgstr "Mise à jour"
+
+#: includes/fields/class-field-text.php:9
+#: includes/fields/class-field-text.php:123
+msgid "Text"
+msgstr "Texte"
+
+#: class/asset-loader.php:51 wpuf.php:716 includes/free/form-element.php:500
+#: includes/fields/class-abstract-fields.php:254
+#: includes/fields/class-abstract-fields.php:335
+#: includes/fields/class-abstract-fields.php:349
+#: includes/fields/class-abstract-fields.php:413
+#: includes/fields/class-field-checkbox.php:75
+#: includes/fields/class-field-radio.php:84 admin/settings-options.php:117
+#: admin/settings-options.php:128 admin/settings-options.php:224
+#: admin/settings-options.php:235 admin/html/form-settings-display.php:40
+#: admin/post-forms-list-table.php:361 admin/template.php:64
+#: admin/class-admin-subscription.php:247
+msgid "No"
+msgstr "Non"
+
+#: class/asset-loader.php:50 wpuf.php:715 includes/free/form-element.php:499
+#: includes/fields/class-abstract-fields.php:253
+#: includes/fields/class-abstract-fields.php:334
+#: includes/fields/class-abstract-fields.php:348
+#: includes/fields/class-abstract-fields.php:412
+#: includes/fields/class-field-checkbox.php:74
+#: includes/fields/class-field-radio.php:83 admin/settings-options.php:116
+#: admin/settings-options.php:127 admin/settings-options.php:223
+#: admin/settings-options.php:234 admin/html/form-settings-display.php:41
+#: admin/post-forms-list-table.php:360 admin/template.php:63
+#: admin/class-admin-subscription.php:245
+msgid "Yes"
+msgstr "Oui"
+
+#: includes/fields/class-abstract-fields.php:388
+#: includes/fields/class-field-multidropdown.php:9
+#: includes/fields/class-field-multidropdown.php:79 admin/template-post.php:150
+msgid "Multi Select"
+msgstr "Sélection multiple"
+
+#: admin/settings-options.php:14
+msgid "General Options"
+msgstr "Options globales"
+
+#: class/post-form-templates/post.php:77 class/post-form-templates/post.php:78
+#: templates/dashboard/posts.php:86 templates/dashboard.php:102
+#: includes/free/post-form-templates/the_events_calendar.php:125
+#: includes/free/post-form-templates/the_events_calendar.php:126
+#: includes/fields/class-field-featured-image.php:9
+#: includes/fields/class-field-featured-image.php:142
+msgid "Featured Image"
+msgstr "Image à la une"
+
+#: class/post-form-templates/post.php:91 templates/dashboard.php:128
+#: includes/free/post-form-templates/the_events_calendar.php:138
+msgid "Excerpt"
+msgstr "Extrait"
+
+#: admin/post-forms-list-table.php:408
+msgid "Duplicate"
+msgstr "Dupliquer"
+
+#: admin/form.php:72 admin/form.php:110
+msgid "Edit Form"
+msgstr "Modifier le formulaire"
+
+#: includes/free/form-element.php:450 admin/html/form-settings-post.php:175
+#: admin/html/form-settings-post-edit.php:76
+msgid "Custom URL"
+msgstr "URL personnalisée"
+
+#: includes/free/form-element.php:427 admin/html/form-settings-post.php:160
+#: admin/html/form-settings-post-edit.php:61
+msgid "Page"
+msgstr "Page"
+
+#: includes/free/form-element.php:218 includes/free/form-element.php:256
+#: admin/form.php:189
+msgid "Notification"
+msgstr "Notification"
+
+#: class/post-form-templates/post.php:109
+#: includes/fields/class-field-post-tags.php:6
+msgid "Tags"
+msgstr "Étiquettes"
+
+#: includes/free/form-element.php:31
+#: includes/fields/class-pro-upgrade-fields.php:159
+#: admin/post-forms-list-table.php:315 admin/premium.php:39
+msgid "Shortcode"
+msgstr "Code court"
+
+#: class/asset-loader.php:55 class/render-form.php:1673 wpuf.php:724
+#: admin/posting.php:72
+msgid "Are you sure?"
+msgstr "Êtes-vous sûr ?"
+
+#: includes/fields/class-field-dropdown.php:9
+#: includes/fields/class-field-dropdown.php:103 admin/template-post.php:149
+msgid "Dropdown"
+msgstr "Menu déroulant"
+
+#: admin/form.php:67 admin/form.php:105
+msgid "Form"
+msgstr "Formulaire"
+
+#: includes/fields/class-field-textarea.php:9
+#: includes/fields/class-field-textarea.php:123
+#: includes/fields/class-abstract-fields.php:675 admin/template.php:185
+msgid "Textarea"
+msgstr "Zone de texte"
+
+#: includes/fields/class-field-hidden.php:9
+msgid "Hidden Field"
+msgstr "Champ caché"
+
+#: admin/class-admin-subscription.php:72
+msgid "Custom field updated."
+msgstr "Champ personnalisé mis à jour."
+
+#: admin/class-admin-subscription.php:73
+msgid "Custom field deleted."
+msgstr "Champ personnalisé supprimé."
+
+#: class/subscription.php:406 class/subscription.php:426
+#: class/subscription.php:427 class/subscription.php:428
+#: templates/dashboard/dashboard.php:19
+#: includes/free/admin/shortcode-button.php:99 wpuf-functions.php:2035
+#: admin/installer.php:95
+msgid "Subscription"
+msgstr "Abonnement"
+
+#: admin/html/form-settings-post.php:21
+msgid "Submit"
+msgstr "Envoyer"
+
+#: admin/post-forms-list-table.php:311
+msgid "Form Name"
+msgstr "Nom du formulaire"
+
+#: includes/fields/class-abstract-fields.php:389
+#: includes/fields/class-field-checkbox.php:9 admin/template-post.php:151
+msgid "Checkbox"
+msgstr "Case à cocher"
+
+#: admin/html/form-settings-post.php:185
+msgid "Open"
+msgstr "Ouvert"
+
+#: admin/html/form-settings-post.php:186
+msgid "Closed"
+msgstr "Fermé"
+
+#: class/post-form-templates/post.php:36 templates/dashboard.php:108
+msgid "Category"
+msgstr "Catégorie"
+
+#: admin/form.php:70 admin/form.php:108
+msgid "Add New Form"
+msgstr "Ajouter un nouveau formulaire"
+
+#: admin/form.php:73 admin/form.php:111
+msgid "New Form"
+msgstr "Nouveau formulaire"
+
+#: admin/form.php:74 admin/form.php:75 admin/form.php:112 admin/form.php:113
+msgid "View Form"
+msgstr "Voir le formulaire"
+
+#: templates/dashboard/posts.php:95 templates/dashboard.php:136
+#: admin/installer.php:96
+msgid "Payment"
+msgstr "Paiement"
+
+#: includes/class-field-manager.php:206
+msgid "Others"
+msgstr "Autres"
+
+#: includes/class-field-manager.php:185
+msgid "Custom Fields"
+msgstr "Champs personnalisés"
+
+#: includes/free/form-element.php:398 admin/html/form-settings-post.php:138
+#: admin/html/form-settings-post-edit.php:39
+msgid "To a custom URL"
+msgstr "Vers une URL personnalisée"
+
+#: includes/free/form-element.php:397 admin/html/form-settings-post.php:137
+#: admin/html/form-settings-post-edit.php:38
+msgid "To a page"
+msgstr "Vers une page"
+
+#: includes/free/form-element.php:396 admin/html/form-settings-post.php:136
+#: admin/html/form-settings-post-edit.php:37
+msgid "Same Page"
+msgstr "Même page"
+
+#: admin/html/form-settings-post.php:135
+#: admin/html/form-settings-post-edit.php:36
+msgid "Newly created post"
+msgstr "Article nouvellement créé"
+
+#: includes/free/form-element.php:391 admin/html/form-settings-post.php:130
+#: admin/html/form-settings-post-edit.php:31
+msgid "Redirect To"
+msgstr "Rediriger vers"
+
+#: admin/settings-options.php:287
+#: admin/html/form-submission-restriction.php:114
+msgid "Unauthorized Message"
+msgstr "Message non autorisé"
+
+#: admin/html/form-submission-restriction.php:68
+msgid "Label text for email field"
+msgstr "Texte du libellé pour le champ e-mail"
+
+#: admin/html/form-submission-restriction.php:58
+msgid "Label text for name field"
+msgstr "Texte du libellé pour le champ nom"
+
+#: admin/html/form-submission-restriction.php:53
+msgid "Name Label"
+msgstr "Libellé du nom"
+
+#: admin/html/form-submission-restriction.php:41
+msgid "User Details"
+msgstr "Détails de l’utilisateur"
+
+#: admin/html/form-submission-restriction.php:34
+msgid "Enable Guest Post"
+msgstr "Activer les articles invités"
+
+#: admin/form-builder/views/form-builder.php:5
+msgid "Form Editor"
+msgstr "Éditeur de formulaire"
+
+#: admin/posting.php:104
+msgid "WPUF Form"
+msgstr "Formulaire WPUF"
+
+#: admin/html/form-submission-restriction.php:29
+#: admin/post-forms-list-table.php:314
+msgid "Guest Post"
+msgstr "Article invité"
+
+#: admin/post-forms-list-table-view.php:8 admin/form.php:69 admin/form.php:107
+msgid "Add Form"
+msgstr "Ajouter un formulaire"
+
+#: admin/form.php:46 admin/form.php:66 admin/form.php:68 admin/form.php:104
+msgid "Forms"
+msgstr "Formulaires"
+
+#: admin/html/form-settings-post-edit.php:83
+msgid "Subscription Title"
+msgstr "Titre de l’abonnement"
+
+#: admin/settings-options.php:34
+msgid "Login / Registration"
+msgstr "Connexion/inscription"
+
+#: admin/posting.php:341
+msgid "No custom fields found."
+msgstr "Aucun champ personnalisé trouvé."
+
+#: admin/posting.php:289
+msgid "WPUF Custom Fields"
+msgstr "Champs personnalisés WPUF"
+
+#: class/asset-loader.php:63 wpuf.php:735 admin/posting.php:80
+msgid "Allowed Files"
+msgstr "Fichiers autorisés"
+
+#: admin/installer.php:193
+msgid "Sample Form"
+msgstr "Exemple de formulaire"
+
+#: includes/free/admin/shortcode-button.php:95 admin/installer.php:184
+msgid "Registration"
+msgstr "Inscription"
+
+#: admin/installer.php:98
+msgid "Hi, we have received your order. We will validate the order and will take necessary steps to move forward."
+msgstr "Bonjour, nous avons bien reçu votre commande. Nous allons valider la commande et nous prendrons les mesures nécessaires pour passer à l’étape suivante."
+
+#: admin/installer.php:98
+msgid "Order Received"
+msgstr "Commande reçue"
+
+#: admin/installer.php:97
+msgid "Thank You"
+msgstr "Merci"
+
+#: admin/installer.php:96
+msgid "Please select a gateway for payment"
+msgstr "Veuillez sélectionner une passerelle de paiement"
+
+#: admin/installer.php:95
+msgid "[wpuf_sub_pack]"
+msgstr "[wpuf_sub_pack]"
+
+#: admin/installer.php:32
+msgid "Skip Setup"
+msgstr "Ignorer la configuration"
+
+#: includes/free/form-element.php:314
+msgid "Click on a form element to add to the editor"
+msgstr "Cliquez sur un élément de formulaire pour l’ajouter à l’éditeur"
+
+#: includes/free/form-element.php:310
+msgid "Toggle All"
+msgstr "Tout basculer"
+
+#: includes/fields/class-field-sectionbreak.php:9
+msgid "Section Break"
+msgstr "Saut de section"
+
+#: includes/fields/class-field-radio.php:9
+msgid "Radio"
+msgstr "Boutons radio"
+
+#: includes/free/form-element.php:8 includes/free/form-element.php:27
+msgid "Click to add to the editor"
+msgstr "Cliquez pour ajouter à l’éditeur"
+
+#: includes/free/form-element.php:57 admin/form.php:227
+#: admin/class-admin-subscription.php:412
+msgid "Post Expiration"
+msgstr "Expiration de l’article"
+
+#: admin/html/form-settings-post-edit.php:92
+msgid "Update Post Button text"
+msgstr "Texte du bouton de mise à jour de l’article"
+
+#: admin/html/form-settings-post-edit.php:54
+msgid "Post Update Message"
+msgstr "Message de mise à jour d’article"
+
+#: admin/html/form-settings-post-edit.php:24
+msgid "No Change"
+msgstr "Aucun changement"
+
+#: admin/html/form-settings-post-edit.php:14
+msgid "Set Post Status to"
+msgstr "Régler l’état de l’article à"
+
+#: admin/html/form-settings-post.php:206
+msgid "It will show a button to save as draft"
+msgstr "Cela affichera un bouton pour enregistrer comme brouillon"
+
+#: admin/html/form-settings-post.php:199
+msgid "Post Draft"
+msgstr "Brouillon d’article"
+
+#: admin/html/form-settings-post.php:192
+msgid "Submit Post Button text"
+msgstr "Texte du bouton de soumission d’article"
+
+#: admin/html/form-settings-post.php:182
+msgid "Comment Status"
+msgstr "État du commentaire"
+
+#: admin/html/form-settings-post.php:153
+msgid "Message to show"
+msgstr "Message à afficher"
+
+#: includes/free/form-element.php:407 admin/html/form-settings-post.php:147
+#: admin/html/form-settings-post-edit.php:48
+msgid "After successfull submit, where the page will redirect to"
+msgstr "Après réussite de soumission, vers où la page redirigera"
+
+#: admin/settings-options.php:288
+#: admin/html/form-submission-restriction.php:117
+msgid "Not logged in users will see this message"
+msgstr "Les utilisateurs non connectés verront ce message"
+
+#: admin/html/form-submission-restriction.php:63
+msgid "E-Mail Label"
+msgstr "Libellé de l’e-mail"
+
+#: admin/html/form-submission-restriction.php:48
+msgid "If requires, users will be automatically registered to the site using the name and email address"
+msgstr "Si nécessaire, les utilisateurs seront automatiquement enregistrés sur le site en utilisant leur nom et adresse e-mail"
+
+#: admin/html/form-submission-restriction.php:46
+msgid "Require Name and Email address"
+msgstr "Exiger le nom et l’adresse e-mail"
+
+#: admin/html/form-submission-restriction.php:36
+msgid "Unregistered users will be able to submit posts"
+msgstr "Les utilisateurs non enregistrés pourrontsoumettre des articles"
+
+#: admin/html/form-settings-post.php:120
+msgid "If users are not allowed to choose any category, this category will be used instead (if post type supports)"
+msgstr "Si les utilisateurs ne sont pas autorisés à choisir une catégorie, cette catégorie sera utilisée à la place (si le type de contenu prend en charge)"
+
+#: class/render-form.php:758 includes/class-frontend-render-form.php:179
+#: admin/html/form-settings-post.php:22 admin/form.php:435
+msgid "Save Draft"
+msgstr "Enregistrer le brouillon"
+
+#: admin/html/form-settings-post.php:16
+#: admin/html/form-settings-post-edit.php:4
+msgid "Post updated successfully"
+msgstr "Article bien mis à jour"
+
+#: admin/html/form-settings-post.php:15
+msgid "Post saved"
+msgstr "Article enregistré"
+
+#: class/post-form-templates/post.php:127
+#: includes/free/post-form-templates/the_events_calendar.php:171
+#: admin/html/form-settings-post.php:7
+msgid "This page is restricted. Please Log in / Register to view this page."
+msgstr "Cette page est restreinte. Veuillez vous connecter/enregistrer pour voir cette page."
+
+#: admin/html/form-settings-post.php:29 admin/post-forms-list-table.php:312
+msgid "Post Type"
+msgstr "Type de publication"
+
+#: admin/installer.php:27
+msgid "If you have not created <strong>WP User Frontend</strong> pages yet, you can do this by one click."
+msgstr "Si vous n’avez pas encore créé les pages <strong>WP User Frontend</strong>, vous pouvez le faire en un clic."
+
+#: admin/html/whats-new.php:723
+msgid "WooCommerce gallery images not getting saved"
+msgstr "Les images de la galerie WooCommerce ne sont pas enregistrées"
+
+#: templates/dashboard/edit-profile.php:44
+msgid "Current Password"
+msgstr "Mot de passe actuel"
+
+#: templates/dashboard/edit-profile.php:49
+msgid "Leave this field empty to keep your password unchanged."
+msgstr "Laissez ce champ vide pour garder votre mot de passe inchangé."
+
+#: templates/dashboard/edit-profile.php:10
+msgid "Profile updated successfully!"
+msgstr "Profil bien mis à jour !"
+
+#: templates/dashboard/edit-profile.php:11
+msgid "Something went wrong!"
+msgstr "Quelque chose s’est mal passé !"
+
+#: templates/dashboard/dashboard.php:48
+msgid "From your account dashboard you can view your dashboard, manage your %s"
+msgstr "Depuis le tableau de bord de votre compte, vous pouvez voir votre tableau de bord, gérer votre %s"
+
+#: templates/dashboard/dashboard.php:5
+msgid "Hello %1$s, (not %1$s? <a href=\"%2$s\">Sign out</a>)"
+msgstr "Bonjour %1$s, (vous n'êtes pas %1$s ? <a href=\"%2$s\">Se déconnecter</a>)"
+
+#: templates/dashboard/dashboard.php:23
+msgid "edit your password and profile"
+msgstr "modifier vos mot de passe et profile"
+
+#: lib/class.settings-api.php:368
+msgid "Choose File"
+msgstr "Choisir un fichier"
+
+#: lib/appsero/Insights.php:381
+msgid "Allow"
+msgstr "Autoriser"
+
+#: lib/appsero/Insights.php:382
+msgid "No thanks"
+msgstr "Non merci"
+
+#: includes/free/post-form-templates/woocommerce.php:13
+msgid "Create a simple product form for WooCommerce."
+msgstr "Créez un formulaire de produit simple pour WooCommerce."
+
+#: includes/free/post-form-templates/woocommerce.php:12
+msgid "WooCommerce Product"
+msgstr "Produit WooCommerce"
+
+#: includes/free/post-form-templates/the_events_calendar.php:177
+msgid "Event has been updated successfully. <a target=\"_blank\" href=\"%link%\">View event</a>"
+msgstr "L’évènement a bien été mis à jour. <a target=\"_blank\" href=\"%link%\">Voir l’évènement </a>"
+
+#: includes/free/post-form-templates/the_events_calendar.php:179
+msgid "Update Event"
+msgstr "Mettre à jour l’évènement"
+
+#: includes/free/post-form-templates/the_events_calendar.php:174
+msgid "Create Event"
+msgstr "Créer un évènement"
+
+#: includes/free/post-form-templates/the_events_calendar.php:154
+msgid "Event Tags"
+msgstr "Étiquettes de l’évènement"
+
+#: includes/free/post-form-templates/the_events_calendar.php:141
+msgid "Provide a short description of this event (optional)"
+msgstr "Fournissez une brève description de cet évènement (facultatif)"
+
+#: lib/appsero/Insights.php:374
+msgid "what we collect"
+msgstr "ce que nous collectons"
+
+#: includes/free/post-form-templates/the_events_calendar.php:129
+msgid "Upload the main image of your event"
+msgstr "Téléversez l’image principale de votre évènement"
+
+#: includes/free/post-form-templates/the_events_calendar.php:94
+msgid "Event Website"
+msgstr "Site web de l’évènement"
+
+#: includes/free/post-form-templates/the_events_calendar.php:53
+msgid "Event Start"
+msgstr "Début de l’évènement"
+
+#: includes/free/post-form-templates/the_events_calendar.php:66
+msgid "Event End"
+msgstr "Fin de l’évènement"
+
+#: includes/free/post-form-templates/the_events_calendar.php:38
+msgid "Write the full description of your event"
+msgstr "Rédigez la description complète de votre évènement"
+
+#: includes/free/post-form-templates/the_events_calendar.php:35
+msgid "Event details"
+msgstr "Détails de l’évènement"
+
+#: includes/free/post-form-templates/the_events_calendar.php:26
+msgid "Please enter your event title"
+msgstr "Veuillez saisir le titre de votre évènement"
+
+#: includes/free/post-form-templates/the_events_calendar.php:21
+msgid "Event Title"
+msgstr "Titre de l’évènement"
+
+#: includes/free/post-form-templates/the_events_calendar.php:14
+msgid "Form for creating events. The Events Calendar plugin is required."
+msgstr "Formulaire pour la création d’événements. L’extension Events Calendar est nécessaire."
+
+#: includes/free/post-form-templates/the_events_calendar.php:13
+msgid "The Events Calendar"
+msgstr "The Events Calendar"
+
+#: includes/free/loader.php:158
+msgid "Learn more about Coupons"
+msgstr "En savoir plus sur les promos"
+
+#: includes/free/loader.php:127
+msgid "Learn More"
+msgstr "En savoir plus"
+
+#: includes/free/form-element.php:285
+msgid "You may use in to, subject & message:"
+msgstr "Vous pouvez utiliser dans sujet & message :"
+
+#: includes/free/form-element.php:226
+msgid "Learn more about Email Notification"
+msgstr "En savoir plus sur la notification par e-mail"
+
+#: includes/free/form-element.php:64
+msgid "Learn more about Automatic Post Expiration"
+msgstr "En savoir plus sur l’expiration automatique de publication"
+
+#: templates/dashboard/subscription.php:1
+msgid "You've subscribed to the following package."
+msgstr "Vous êtes abonné au forfait suivant."
+
+#: lib/appsero/Insights.php:763
+msgid "Submit & Deactivate"
+msgstr "Envoyer & désactiver"
+
+#: lib/appsero/Insights.php:762
+msgid "I rather wouldn't say"
+msgstr "Je préfère ne rien dire"
+
+#: templates/dashboard.php:20
+msgid "You have created <span>%d</span> (%s)"
+msgstr "Vous avez créé <span>%d</span> (%s)"
+
+#: wpuf.php:108
+msgid "The <strong>WP User Frontend</strong> plugin requires PHP version <strong>"
+msgstr "L’extension <strong>WP User Frontend</strong> nécessite la version de PHP <strong>"
+
+#: includes/free/class-registration.php:246
+msgid "Passwords are not same."
+msgstr "Les mots de passe ne sont pas identiques."
+
+#: includes/free/class-registration.php:240
+msgid "Confirm Password is required."
+msgstr "La confirmation du mot de passe est obligatoire."
+
+#: includes/free/class-registration.php:222
+msgid "Email is required."
+msgstr "L’e-mail est obligatoire."
+
+#: includes/free/class-registration.php:216
+msgid "Last name is required."
+msgstr "Le nom est obligatoire."
+
+#: includes/free/class-registration.php:210
+msgid "First name is required."
+msgstr "Le prénom est obligatoire."
+
+#: includes/free/class-login.php:989
+msgid "Possible reason: your host may have disabled the mail() function."
+msgstr "Raison possible : votre hébergeur peut avoir désactivé la fonction mail()."
+
+#: includes/free/class-login.php:989
+msgid "The e-mail could not be sent."
+msgstr "L’e-mail n’a pas pu être envoyé."
+
+#: includes/free/class-login.php:967
+msgid "Someone requested that the password be reset for the following account:"
+msgstr "Quelqu’un a demandé la réinitialisation du mot de passe pour le compte suivant :"
+
+#: includes/free/class-login.php:875
+msgid "Thanks"
+msgstr "Merci"
+
+#. translators: %s: username
+#: includes/free/class-login.php:872
+msgid "Hi %s,"
+msgstr "Bonjour %s"
+
+#. translators: %s: blogname
+#: includes/free/class-login.php:870
+msgid "[%s] Account has been activated"
+msgstr "Le compte de [%s] a été activé."
+
+#: includes/free/class-login.php:859
+msgid "To set your password, visit the following address:"
+msgstr "Pour définir votre mot de passe, visitez l’adresse suivante :"
+
+#: includes/free/class-login.php:830 includes/free/class-login.php:918
+msgid "Your account has been activated"
+msgstr "Votre compte a été activé"
+
+#. translators: %s: activation link
+#: includes/free/class-login.php:776
+msgid "<strong>Your account is not active.</strong><br>Please check your email for activation link. <br><a href=\"%s\">Click here</a> to resend the activation link"
+msgstr "<strong> Votre compte n’est pas actif. </strong> <br> Veuillez vérifier vos e-mails pour le lien d’activation. <br> <a href=\"%s\"> Cliquez ici </a> pour renvoyer le lien d’activation"
+
+#: includes/free/class-login.php:737
+msgid "Password reset is not allowed for this user"
+msgstr "La réinitialisation du mot de passe n’est pas autorisée pour cet utilisateur."
+
+#: includes/free/class-login.php:723
+msgid "Invalid username or e-mail."
+msgstr "Identifiant ou e-mail non valide."
+
+#: admin/class-admin-settings.php:113
+msgid "Premium"
+msgstr "Premium"
+
+#: admin/class-admin-settings.php:99
+msgid "Subscriptions"
+msgstr "Abonnements"
+
+#: admin/html/whats-new.php:1025
+msgid "Setup Wizard"
+msgstr "Assistant de configuration"
+
+#: admin/html/form-submission-restriction.php:96
+msgid "Roles"
+msgstr "Rôles"
+
+#: includes/fields/class-field-url.php:67
+msgid "New Window"
+msgstr "Nouvelle fenêtre"
+
+#: includes/fields/class-field-url.php:66
+msgid "Same Window"
+msgstr "Même fenêtre"
+
+#: includes/fields/class-field-url.php:63
+msgid "Open in : "
+msgstr "Ouvrir dans : "
+
+#: admin/form-builder/views/form-builder.php:25
+#: admin/form-builder/views/form-builder.php:76
+msgid "Add Fields"
+msgstr "Ajouter des champs"
+
+#: admin/form-builder/views/form-builder.php:18
+msgid "Save Form"
+msgstr "Enregistrer le formulaire"
+
+#: admin/form-builder/class-wpuf-admin-form-builder.php:288
+msgid "Column"
+msgstr "Colonne"
+
+#: includes/fields/class-field-dropdown.php:105
+#: includes/fields/class-field-checkbox.php:101
+#: includes/fields/class-field-radio.php:109
+#: includes/fields/class-field-multidropdown.php:82
+#: admin/form-builder/class-wpuf-admin-form-builder.php:287
+msgid "Option"
+msgstr "Option"
+
+#: admin/settings-options.php:527
+msgid "Post Types"
+msgstr "Types de publication"
+
+#: admin/settings-options.php:414
+msgid "Right"
+msgstr "Droite"
+
+#: admin/settings-options.php:413
+msgid "Left"
+msgstr "Gauche"
+
+#: admin/settings-options.php:64
+msgid "Previous Page"
+msgstr "Page précédente"
+
+#: admin/settings-options.php:29
+msgid "My Account"
+msgstr "Mon compte"
+
+#: admin/premium.php:174
+msgid "MailChimp"
+msgstr "MailChimp"
+
+#: admin/premium.php:93
+msgid "Modules"
+msgstr "Modules"
+
+#: admin/premium.php:40
+msgid "Number"
+msgstr "Nombre"
+
+#: admin/premium.php:34
+msgid "Address"
+msgstr "Adresse"
+
+#: admin/installer.php:31
+msgid "or"
+msgstr "ou"
+
+#: admin/post-forms-list-table.php:114 admin/post-forms-list-table.php:420
+msgid "Delete Permanently"
+msgstr "Supprimer définitivement"
+
+#: admin/post-forms-list-table.php:113 admin/post-forms-list-table.php:419
+msgid "Restore"
+msgstr "Restaurer"
+
+#: admin/post-forms-list-table.php:45 admin/post-forms-list-table.php:407
+msgid "Trash"
+msgstr "Corbeille"
+
+#: class/subscription.php:903
+msgid "for"
+msgstr "pour"
+
+#: class/subscription.php:902
+msgid "Every"
+msgstr "Chaque"
+
+#: class/subscription.php:863
+msgid "Year"
+msgid_plural "Years"
+msgstr[0] "Année"
+msgstr[1] "Années"
+
+#: class/subscription.php:862
+msgid "Month"
+msgid_plural "Months"
+msgstr[0] "Mois"
+msgstr[1] "Mois"
+
+#: class/subscription.php:861
+msgid "Week"
+msgid_plural "Weeks"
+msgstr[0] "Semaine"
+msgstr[1] "Semaines"
+
+#: class/subscription.php:860
+msgid "Day"
+msgid_plural "Days"
+msgstr[0] "Jour"
+msgstr[1] "Jours"
+
+#: includes/class-acf.php:175
+msgid "Compatible"
+msgstr "Compatible"
+
+#: includes/fields/class-pro-upgrade-fields.php:181
+msgid "Terms & Conditions"
+msgstr "Conditions générales"
+
+#: includes/fields/class-pro-upgrade-fields.php:60 admin/premium.php:36
+msgid "Google Map"
+msgstr "Google Map"
+
+#: includes/free/admin/shortcode-button.php:83 admin/installer.php:85
+msgid "Account"
+msgstr "Compte"
+
+#: includes/free/admin/shortcode-button.php:51
+msgid " Add Form"
+msgstr "Ajouter un formulaire "
+
+#: includes/free/admin/shortcode-button.php:50
+msgid "Add a Form"
+msgstr "Ajouter un formulaire"
+
+#: includes/free/admin/shortcode-builder.php:70
+#: admin/form-builder/class-wpuf-admin-form-builder.php:285
+msgid "Close"
+msgstr "Fermer"
+
+#: includes/free/class-login.php:463 includes/free/class-registration.php:204
+#: includes/free/class-registration.php:210
+#: includes/free/class-registration.php:216
+#: includes/free/class-registration.php:222
+#: includes/free/class-registration.php:228
+#: includes/free/class-registration.php:234
+#: includes/free/class-registration.php:240
+#: includes/free/class-registration.php:246
+#: includes/free/class-registration.php:252
+#: includes/free/class-registration.php:265
+msgid "Error"
+msgstr "Erreur"
+
+#: admin/class-admin-settings.php:115
+msgid "Help"
+msgstr "Aide"
+
+#: admin/html/form-submission-restriction.php:137
+msgid "From"
+msgstr "De"
+
+#: includes/fields/class-field-html.php:9
+msgid "Custom HTML"
+msgstr "HTML personnalisé"
+
+#: includes/fields/class-field-featured-image.php:120
+#: includes/fields/class-field-image.php:114
+msgid "Button Label"
+msgstr "Libellé du bouton"
+
+#: includes/fields/class-abstract-fields.php:305
+msgid "Everyone"
+msgstr "Tout le monde"
+
+#: admin/settings-options.php:49
+msgid "Privacy Options"
+msgstr "Options de confidentialité"
+
+#: admin/settings-options.php:44
+msgid "E-Mails"
+msgstr "E-mails"
+
+#: admin/premium.php:51 admin/premium.php:54
+msgid "Manage Coupons"
+msgstr "Gérer les codes promo"
+
+#: admin/premium.php:2 admin/premium.php:5
+msgid "WPUF Pro"
+msgstr "WPUF Pro"
+
+#: class/asset-loader.php:32 wpuf.php:632
+msgid "is required"
+msgstr "est obligatoire"
+
+#: admin/class-admin-subscription.php:600
+msgid "For each %s %s"
+msgstr "Pour chaque %s %s"
+
+#: includes/fields/class-abstract-fields.php:270
+msgid "Large"
+msgstr "Grand"
+
+#: includes/fields/class-abstract-fields.php:268
+msgid "Small"
+msgstr "Petit"
+
+#: includes/class-frontend-form-post.php:535
+msgid "Something went wrong"
+msgstr "Quelque chose s’est mal passé."
+
+#: lib/appsero/Insights.php:369
+msgid "Want to help make <strong>%1$s</strong> even more awesome? Allow %1$s to collect non-sensitive diagnostic data and usage information."
+msgstr "Vous souhaitez aider à rendre <strong>%1$s</strong> encore plus impressionnant ? Autorisez %1$s à collecter des données de diagnostic et des informations d’utilisation non sensibles."
+
+#: includes/fields/class-abstract-fields.php:312
+msgid "Select option"
+msgstr "Sélectionnez une option"
+
+#: admin/class-tools.php:300
+msgid "Are you Sure?"
+msgstr "Confirmez-vous ?"
+
+#: admin/premium.php:161 admin/premium.php:164
+msgid "Mailpoet"
+msgstr "MailPoet"
+
+#: admin/post-forms-list-table.php:109
+msgid "Move to Trash"
+msgstr "Déplacer vers la corbeille"
+
+#: includes/fields/class-pro-upgrade-fields.php:30
+msgid "Date / Time"
+msgstr "Date/heure"
+
+#: admin/form-builder/class-wpuf-admin-form-builder.php:283
+msgid "OK"
+msgstr "Ok"
+
+#: admin/form-builder/class-wpuf-admin-form-builder.php:280
+msgid "Are you sure you want to delete this field?"
+msgstr "Confirmez-vous vouloir supprimer ce champ ?"
+
+#. translators: %s: blogname
+#: includes/free/class-login.php:856
+msgid "[%s] Your username and password info"
+msgstr "[%s] Vos identifiant et mot de passe"
+
+#: includes/free/class-login.php:651
+msgid "Passwords do not match."
+msgstr "Les mots de passe ne correspondent pas."
+
+#: includes/free/class-login.php:645
+msgid "Please enter your password."
+msgstr "Veuillez saisir votre mot de passe."
+
+#: includes/free/class-login.php:441 includes/free/class-registration.php:234
+msgid "Password is required."
+msgstr "Le mot de passe est obligatoire."
+
+#: includes/free/class-login.php:435 includes/free/class-registration.php:228
+msgid "Username is required."
+msgstr "L’identifiant est obligatoire."
+
+#: includes/free/class-login.php:390
+msgid "You are now logged out."
+msgstr "Vous êtes maintenant déconnecté."
+
+#: includes/free/class-login.php:361
+msgid "Check your e-mail for the confirmation link."
+msgstr "Vérifiez votre e-mail pour le lien de confirmation."
+
+#. translators: %s: login url
+#: includes/free/class-login.php:375
+msgid "Your password has been reset. %s"
+msgstr "Votre mot de passe a été réinitialisé. %s"
+
+#: includes/free/class-login.php:319
+msgid "Lost Password"
+msgstr "Mot de passe perdu"
+
+#: includes/free/admin/shortcode-builder.php:69
+msgid "Insert Form"
+msgstr "Insérer un formulaire"
+
+#: includes/free/admin/shortcode-builder.php:13
+msgid "Form Type"
+msgstr "Type de formulaire"
+
+#: includes/free/admin/shortcode-builder.php:5
+msgid "Select a form to insert"
+msgstr "Sélectionnez un formulaire à insérer"
+
+#: includes/fields/class-pro-upgrade-fields.php:38
+msgid "Embed"
+msgstr "Embarquer"
+
+#: admin/html/support.php:240
+msgid "Plugin Setup"
+msgstr "Configuration de l’extension"
+
+#: admin/class-admin-settings.php:115
+msgid "<span style=\"color:#f18500\">Help</span>"
+msgstr "<span style=\"color:#f18500\">Aide</span>"
+
+#: admin/subscribers.php:18 admin/class-admin-settings.php:118
+#: admin/class-admin-subscription.php:204
+msgid "Subscribers"
+msgstr "Abonnés"
+
+#: admin/form.php:225 admin/class-admin-subscription.php:334
+msgid "Payment Settings"
+msgstr "Réglages de paiement"
+
+#: admin/class-admin-subscription.php:364
+msgid "Expires In:"
+msgstr "Expire le :"
+
+#: admin/class-admin-subscription.php:482
+msgid "Expiration Message"
+msgstr "Message d’expiration"
+
+#: admin/class-admin-subscription.php:635
+msgid "This user is using recurring subscription pack"
+msgstr "Cet utilisateur utilise un forfait d’abonnement récurrent"
+
+#: admin/class-admin-subscription.php:783
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Selectionner &mdash;"
+
+#: admin/class-admin-welcome.php:22
+msgid "Welcome to WP User Frontend"
+msgstr "Bienvenue dans WP User Frontend"
+
+#: admin/class-tools.php:37
+msgid "Form Export"
+msgstr "Exportation de formulaire"
+
+#: admin/class-tools.php:352
+msgid "Delete Subscriptions"
+msgstr "Supprimer les abonnements"
+
+#: admin/class-tools.php:361
+msgid "This tool will delete all the transactions from the transaction table."
+msgstr "Cet outil supprimera toutes les transactions de la table des transactions."
+
+#: admin/class-tools.php:363
+msgid "Delete Transactions"
+msgstr "Supprimer les transactions"
+
+#: admin/promotion.php:183 admin/promotion.php:187 admin/promotion.php:249
+#: admin/promotion.php:253
+#: admin/form-builder/class-wpuf-admin-form-builder-ajax.php:35
+#: admin/form-builder/class-wpuf-admin-form-builder-ajax.php:82
+msgid "Unauthorized operation"
+msgstr "Opération non autorisée"
+
+#: admin/form-builder/class-wpuf-admin-form-builder.php:279
+msgid "Advanced Options"
+msgstr "Options avancées"
+
+#: admin/form-builder/class-wpuf-admin-form-builder.php:286
+msgid "This field must contain at least one choice"
+msgstr "Ce champ doit contenir au moins un choix"
+
+#: admin/form-builder/class-wpuf-admin-form-builder.php:289
+msgid "This field must contain at least one column"
+msgstr "Ce champ doit contenir au moins une colonne"
+
+#: includes/fields/class-abstract-fields.php:387
+#: admin/form-builder/class-wpuf-admin-form-builder.php:293
+msgid "Select"
+msgstr "Sélectionner"
+
+#: admin/form-builder/class-wpuf-admin-form-builder.php:294
+msgid "Saved form data"
+msgstr "Données de formulaire enregistrées"
+
+#: admin/form-builder/class-wpuf-admin-form-builder.php:296
+#: admin/form-builder/views/form-builder.php:49
+msgid "Click to copy shortcode"
+msgstr "Cliquez pour copier le code court"
+
+#: admin/form-builder/views/form-builder.php:82
+msgid "Field Options"
+msgstr "Options du champ"
+
+#: admin/form-handler.php:339 admin/form-handler.php:364
+msgid "%d form restored from the trash."
+msgid_plural "%d forms restored from the trash."
+msgstr[0] "Le formulaire %d a été restauré à partir de la corbeille."
+msgstr[1] "Les formulaires %d ont été restaurés à partir de la corbeille."
+
+#: admin/form-handler.php:344 admin/form-handler.php:369
+msgid "%d form permanently deleted."
+msgid_plural "%d forms permanently deleted."
+msgstr[0] "Le formulaire %d a été définitivement supprimé."
+msgstr[1] "Les formulaires %d ont été définitivement supprimés."
+
+#: admin/form-template.php:168
+msgid "Form Template"
+msgstr "Modèle de formulaire"
+
+#: admin/html/form-settings-display.php:11
+msgid "Label Position"
+msgstr "Position du libellé"
+
+#: admin/html/form-settings-display.php:16
+msgid "Above Element"
+msgstr "Au-dessus de l’élément"
+
+#: admin/html/form-settings-display.php:17
+msgid "Left of Element"
+msgstr "À gauche de l’élément"
+
+#: admin/html/form-settings-display.php:18
+msgid "Right of Element"
+msgstr "À droite de l’élément"
+
+#: admin/html/form-settings-display.php:35
+msgid "Use Theme CSS"
+msgstr "Utiliser les CSS du thème"
+
+#: admin/html/form-settings-post.php:74
+msgid "- None -"
+msgstr "- Aucun -"
+
+#: admin/html/form-settings-post.php:204
+msgid "Enable Saving as draft"
+msgstr "Activer l’enregistrement comme brouillon"
+
+#: admin/html/form-submission-restriction.php:73
+msgid "Email Verification"
+msgstr "Vérification de l’e-mail"
+
+#: admin/html/form-submission-restriction.php:127
+msgid "Schedule form for a period"
+msgstr "Planifier le formulaire pour une période"
+
+#: admin/html/form-submission-restriction.php:129
+msgid "Schedule for a time period the form is active."
+msgstr "Planifier une période pendant laquelle le formulaire est actif."
+
+#: admin/html/form-submission-restriction.php:134
+msgid "Schedule Period"
+msgstr "Période de planification"
+
+#: includes/free/form-element.php:230 includes/free/form-element.php:267
+#: admin/html/form-submission-restriction.php:141
+msgid "To"
+msgstr "À"
+
+#: admin/html/form-submission-restriction.php:148
+msgid "Form Pending Message"
+msgstr "Message d’attente du formulaire"
+
+#: admin/html/form-submission-restriction.php:155
+msgid "Form Expired Message"
+msgstr "Message d’expiration du formulaire"
+
+#: admin/html/form-submission-restriction.php:171
+msgid "Limit the number of entries allowed for this form"
+msgstr "Limiter le nombre d’entrées autorisées pour ce formulaire."
+
+#: admin/html/form-submission-restriction.php:177
+msgid "Number of Entries"
+msgstr "Nombre d’entrées"
+
+#: admin/html/modal.php:5
+msgid "Close modal window"
+msgstr "Fermer la fenêtre modale"
+
+#: admin/html/modal.php:9
+msgid "Select a Template"
+msgstr "Sélectionner un modèle"
+
+#: admin/html/modal.php:12
+msgid "Select from a pre-defined template or from a <a href=\"%s\">blank form</a>"
+msgstr "Sélectionner à partir d’un modèle prédéfini ou d’un <a href=\"%s\">formulaire vierge</a>"
+
+#: admin/html/modal.php:23 admin/html/modal.php:27 admin/html/modal.php:31
+msgid "Blank Form"
+msgstr "Formulaire vierge"
+
+#: admin/html/modal.php:34 admin/html/modal.php:70
+msgid "Create Form"
+msgstr "Créer un formulaire"
+
+#: admin/html/modal.php:55
+msgid "This integration is not installed."
+msgstr "Cette intégration n’est pas installée."
+
+#: admin/html/support.php:205
+msgid "General Help Questions"
+msgstr "Questions d’aide générale"
+
+#: admin/html/support.php:205
+msgid "View all Documentations"
+msgstr "Voir toutes les documentations"
+
+#: admin/html/support.php:210
+msgid "Subscribe to Our Newsletter"
+msgstr "Abonnez-vous à notre newsletter"
+
+#: admin/html/support.php:229
+msgid "Subscribe"
+msgstr "S’inscrire"
+
+#: includes/fields/class-abstract-fields.php:521
+#: includes/fields/class-abstract-fields.php:595
+#: includes/fields/class-abstract-fields.php:703 admin/html/support.php:282
+msgid "Content Restriction"
+msgstr "Restriction de contenu"
+
+#: admin/html/support.php:477 admin/html/support.php:479
+msgid "Found Any Bugs?"
+msgstr "Vous avez trouvé des bogues ?"
+
+#: admin/html/support.php:493
+msgid "Contact Support"
+msgstr "Contacter le support"
+
+#: admin/html/whats-new.php:1100
+msgid "What's New in WPUF?"
+msgstr "Quoi de nouveau dans WPUF ?"
+
+#: admin/installer.php:42
+msgid "Congratulations!"
+msgstr "Félicitations !"
+
+#: admin/post-forms-list-table-view.php:23
+msgid "Search Forms"
+msgstr "Formulaires de recherche"
+
+#: admin/post-forms-list-table.php:95
+msgid "No form found."
+msgstr "Aucun formulaire trouvé."
+
+#: includes/fields/class-field-email.php:9
+msgid "Email Address"
+msgstr "Adresse e-mail"
+
+#: includes/free/class-login.php:699
+msgid "Enter a username or e-mail address."
+msgstr "Saisissez un identifiant ou une adresse e-mail."
+
+#: admin/class-admin-settings.php:372
+msgid "Number of items per page:"
+msgstr "Nombre d’éléments par page :"
+
+#: includes/free/form-element.php:61 admin/class-admin-subscription.php:417
+msgid "Enable Post Expiration"
+msgstr "Activer l’expiration de la publication"
+
+#: admin/html/form-settings-post.php:56 admin/post-forms-list-table.php:313
+#: admin/class-admin-subscription.php:451
+msgid "Post Status"
+msgstr "État de la publication"
+
+#: class/frontend-account.php:247 admin/class-admin-subscription.php:601
+msgid ", for %s installments"
+msgstr "pour les acomptes de %s"
+
+#: admin/class-admin-subscription.php:780
+msgid "Select Package:"
+msgstr "Sélectionner un forfait :"
+
+#: admin/class-tools.php:48 admin/class-tools.php:111
+msgid "Select individual"
+msgstr "Sélectionnez individuellement"
+
+#: admin/class-tools.php:353
+msgid "Delete Coupons"
+msgstr "Supprimer des promos"
+
+#: admin/form-builder/class-wpuf-admin-form-builder-ajax.php:39
+msgid "Invalid form id"
+msgstr "ID de formulaire non valide"
+
+#: class/asset-loader.php:56 wpuf.php:725 admin/posting.php:73
+#: admin/form-builder/class-wpuf-admin-form-builder.php:281
+msgid "Yes, delete it"
+msgstr "Oui, le supprimer"
+
+#: class/asset-loader.php:57 wpuf.php:726 admin/posting.php:74
+#: admin/form-builder/class-wpuf-admin-form-builder.php:282
+msgid "No, cancel it"
+msgstr "Non, annuler cela"
+
+#: admin/form-builder/class-wpuf-admin-form-builder.php:292
+msgid "Get the Pro version"
+msgstr "Obtenir la version Pro"
+
+#: admin/form-builder/class-wpuf-admin-form-builder.php:295
+msgid "You have unsaved changes."
+msgstr "Vous avez des modifications non enregistrées."
+
+#: admin/html/form-settings-post.php:23
+#: admin/form-builder/views/form-builder.php:15
+msgid "Preview"
+msgstr "Prévisualisation"
+
+#: admin/form-builder/class-wpuf-admin-form-builder.php:290
+msgid "is available in Pro version"
+msgstr "est disponible dans la version Pro"
+
+#: admin/form-builder/class-wpuf-admin-form-builder.php:291
+msgid "Please upgrade to the Pro version to unlock all these awesome features"
+msgstr "Veuillez mettre à niveau vers la version Pro pour déverrouiller toutes ces fonctionnalités incroyables."
+
+#: admin/form-builder/views/form-builder.php:22
+msgid "Saving Form Data"
+msgstr "Enregistrement des données du formulaire"
+
+#: admin/form-handler.php:56 admin/form-handler.php:189
+msgid "You do not have sufficient permissions to do this action"
+msgstr "Vous n’avez pas les droits suffisants pour réaliser cette action"
+
+#: admin/form-handler.php:334 admin/form-handler.php:359
+msgid "%d form moved to the trash."
+msgid_plural "%d forms moved to the trash."
+msgstr[0] "Le formulaire %d a été déplacé dans la corbeille."
+msgstr[1] "Les formulaires %d ont été déplacés dans la corbeille."
+
+#: admin/class-tools.php:339
+msgid "Caution: This tool will delete all the plugin settings of WP User Frontend Pro"
+msgstr "Attention : cet outil va supprimer tous les réglages de l’extension WP User Frontend Pro"
+
+#: includes/free/class-login.php:379
+msgid "Enter your new password below."
+msgstr "Saisissez votre nouveau mot de passe ci-dessous."
+
+#: admin/html/form-settings-display.php:29
+msgid "Where the labels of the form should display"
+msgstr "Où les libellés du formulaire doivent-ils s’afficher"
+
+#: admin/html/form-settings-display.php:58
+msgid "Form Style"
+msgstr "Style du formulaire"
+
+#: admin/html/form-settings-payment.php:20
+msgid "Payment Options"
+msgstr "Options de paiement"
+
+#: admin/html/form-settings-payment.php:73
+msgid " Learn More about Pay Per Post."
+msgstr " En apprendre plus sur le paiement par publication."
+
+#: admin/html/form-settings-payment.php:78
+msgid "Cost Settings"
+msgstr "Réglages du coût"
+
+#: admin/html/form-settings-post.php:51
+msgid "Learn More "
+msgstr "En apprendre plus "
+
+#: admin/html/form-settings-post.php:71
+msgid "Post Format"
+msgstr "Format de publication"
+
+#: admin/html/form-submission-restriction.php:122
+msgid "Schedule form"
+msgstr "Planifier le formulaire"
+
+#: admin/html/form-submission-restriction.php:162
+msgid "Limit Entries"
+msgstr "Limite d’entrées"
+
+#: admin/html/form-submission-restriction.php:167
+msgid "Enable form entry limit"
+msgstr "Activer la limite d’entrées du formulaire"
+
+#: templates/dashboard/edit-profile.php:34
+msgid "Email Address "
+msgstr "Adresse e-mail "
+
+#: includes/free/class-login.php:706
+msgid "There is no user registered with that email address."
+msgstr "Il n’y a aucun compte inscrit avec cette adresse e-mail."
+
+#: includes/free/class-login.php:463 includes/free/class-registration.php:265
+msgid "A user could not be found with this email address."
+msgstr "Impossible de trouver un compte avec cette adresse e-mail."
+
+#: includes/free/class-login.php:365
+msgid "Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr "Veuillez saisir votre identifiant ou adresse e-mail. Vous recevrez par e-mail un lien pour créer un nouveau mot de passe."
+
+#: class/frontend-account.php:343
+msgid "This email address is already registered."
+msgstr "Cette adresse e-mail est déjà inscrite."
+
+#: class/frontend-account.php:341
+msgid "Please provide a valid email address."
+msgstr "Veuillez fournir une adresse e-mail valide."
+
+#: includes/free/edit-user.php:236
+msgid "<strong>ERROR</strong>: The email address isn&#8217;t correct"
+msgstr "<strong>Erreur</strong> : l’adresse e-mail n’est pas correcte"
+
+#: includes/class-frontend-form-post.php:556
+msgid "Invalid email address."
+msgstr "Adresse e-mail non valide."
+
+#: class/transactions-list-table.php:45
+msgid "User"
+msgstr "Compte"
+
+#: admin/settings-options.php:397
+msgid "Registration time redirect to subscription page"
+msgstr "Au moment de l’inscription l’utilisateur est redirigé vers la page d’abonnement"
+
+#: admin/premium.php:111 admin/premium.php:114
+msgid "User Directory"
+msgstr "Répertoire compte"
+
+#: admin/html/support.php:258
+msgid "User Registration"
+msgstr "Inscription de compte"
+
+#: admin/html/support.php:264
+msgid "User Login"
+msgstr "Connexion de compte"
+
+#: admin/html/support.php:471
+msgid "Your Review is very important to us as it helps us to grow more."
+msgstr "Votre évaluation est très importante pour nous car elle nous aide à progresser davantage."
+
+#: admin/html/support.php:473
+msgid "Review Us on WP.org"
+msgstr "Évaluez-nous sur WordPress.org"
+
+#: admin/html/support.php:483
+msgid "Report to GitHub"
+msgstr "Rapporter sur GitHub"
+
+#: admin/html/support.php:487 admin/html/support.php:489
+msgid "Need Any Assistance?"
+msgstr "Besoin d’assistance ?"
+
+#: admin/html/whats-new.php:849
+msgid "User subscription deletion gets reverted if updated is fixed."
+msgstr "La suppression de l’abonnement utilisateur/utilisatrice est annulée si la mise à jour est corrigée."
+
+#: admin/installer.php:97
+msgid "<h1>Payment is complete</h1><p>Congratulations, your payment has been completed!</p>"
+msgstr "<h1>Le paiement est terminé</h1><p>Félicitations, votre paiement est terminé !</p>"
+
+#: admin/class-tools.php:307
+msgid "Settings has been cleared!"
+msgstr "Les réglages ont été effacés !"
+
+#: admin/class-admin-subscription.php:611
+msgid "Subcription Name"
+msgstr "Nom de l’abonnement"
+
+#: includes/fields/class-abstract-fields.php:323
+#: includes/fields/class-field-hidden.php:43 admin/template.php:76
+#: admin/template.php:551
+msgid "Name of the meta key this field will save to"
+msgstr "Nom de la clé méta dans laquelle ce champ sera enregistré"
+
+#: class/frontend-account.php:321
+msgid "First Name is a required field."
+msgstr "Le champ « Prénom » est obligatoire."
+
+#: class/post-form-templates/post.php:25
+msgid "Please enter your post name"
+msgstr "Veuillez saisir le nom de votre publication"
+
+#: includes/free/class-registration.php:252
+msgid "A user with same username already exists."
+msgstr "Un compte avec le même identifiant existe déjà."
+
+#: class/payment.php:299
+msgid "Proceed"
+msgstr "Continuer"
+
+#: includes/setup-wizard.php:281
+msgid "Welcome to the world of WPUF!"
+msgstr "Bienvenue dans l’univers de WPUF !"
+
+#: includes/class-login-widget.php:93
+msgid "Password has been reset. Please check your email."
+msgstr "Votre mot de passe a été réinitialisé. Veuillez vérifier vos e-mails."
+
+#: includes/class-list-table-subscribers.php:47
+msgid "Starts from"
+msgstr "Commence à partir de"
+
+#: assets/js-templates/form-components.php:61
+#: admin/form-builder/assets/js/components/builder-stage/template.php:60
+msgid "Hidden Fields"
+msgstr "Champs masqués"
+
+#: includes/class-form-preview.php:82
+msgid "You must be logged in to preview this form."
+msgstr "Vous devez être connecté pour prévisualiser ce formulaire."
+
+#: templates/login-form.php:71 includes/class-login-widget.php:280
+msgid "Remember Me"
+msgstr "Se souvenir de moi"
+
+#. translators: %s: login url
+#: templates/login-form.php:75 includes/free/class-login.php:311
+#: includes/free/class-login.php:375 includes/class-login-widget.php:281
+msgid "Log In"
+msgstr "Se connecter"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/wp-user-frontend/"
+msgstr "https://wordpress.org/plugins/wp-user-frontend/"
+
+#. Description of the plugin
+msgid "Create, edit, delete, manages your post, pages or custom post types from frontend. Create registration forms, frontend profile and more..."
+msgstr "Créez, modifiez, supprimez et gérez vos articles, pages ou types de publication personnalisés à partir de l’interface utilisateur. Créez des formulaires d’enregistrement, profils via l’interface utilisateur et plus..."
+
+#: templates/reset-pass-form.php:26 includes/class-login-widget.php:282
+msgid "Reset Password"
+msgstr "Réinitialiser le mot de passe"
+
+#: includes/free/class-login.php:315 includes/free/class-registration.php:122
+#: includes/free/form-element.php:355 includes/class-login-widget.php:216
+#: includes/class-login-widget.php:252
+msgid "Register"
+msgstr "S'enregistrer"
+
+#: assets/js-templates/form-components.php:152 admin/template.php:234
+#: admin/template.php:286
+#: admin/form-builder/assets/js/components/field-option-data/template.php:32
+msgid "Label"
+msgstr "Libellé"
+
+#: class/transactions-list-table.php:90
+#: includes/class-list-table-subscribers.php:136 wpuf-functions.php:3330
+#: admin/class-tools.php:43 admin/class-tools.php:106
+#: admin/post-forms-list-table.php:43
+msgid "All"
+msgstr "Tous"
+
+#: assets/js-templates/form-components.php:157 admin/template.php:234
+#: admin/template.php:286
+#: admin/form-builder/assets/js/components/field-option-data/template.php:37
+msgid "Value"
+msgstr "Valeur"
+
+#: includes/class-user-subscription.php:371
+msgid "Change"
+msgstr "Changer"
+
+#: lib/appsero/Insights.php:764 class/payment.php:217
+#: class/subscription.php:820 templates/dashboard/subscription.php:64
+#: includes/class-list-table-subscribers.php:138
+#: admin/class-admin-subscription.php:774
+#: admin/form-builder/class-wpuf-admin-form-builder.php:284
+msgid "Cancel"
+msgstr "Annuler"
+
+#: includes/class-list-table-subscribers.php:41
+msgid "User ID"
+msgstr "ID d'utilisateur"
+
+#: class/transactions-list-table.php:44 templates/dashboard/posts.php:90
+#: templates/dashboard.php:131 includes/class-list-table-subscribers.php:44
+msgid "Status"
+msgstr "État "
+
+#: assets/js-templates/form-components.php:542
+#: assets/js-templates/form-components.php:613 class/render-form.php:1655
+#: includes/fields/class-field-featured-image.php:122
+#: includes/fields/class-field-image.php:116
+#: includes/fields/class-field-image.php:137
+#: admin/form-builder/assets/js/components/form-featured_image/template.php:6
+#: admin/form-builder/assets/js/components/form-image_upload/template.php:6
+msgid "Select Image"
+msgstr "Sélectionner une image"
+
+#: includes/class-privacy.php:322 includes/class-list-table-subscribers.php:46
+msgid "Transaction ID"
+msgstr "ID de la transaction"
+
+#: includes/free/loader.php:92 includes/free/admin/shortcode-builder.php:9
+msgid "Registration Form"
+msgstr "Formulaire d’inscription"
+
+#: includes/free/loader.php:84 includes/free/loader.php:145
+msgid "Coupons"
+msgstr "Coupons"
+
+#: templates/dashboard/subscription.php:7
+#: includes/class-user-subscription.php:319
+msgid "Package & billing details: "
+msgstr "Informations de facturation et de package : "
+
+#: assets/js-templates/form-components.php:650 class/render-form.php:1052
+#: includes/fields/class-field-post-content.php:48
+#: admin/form-builder/assets/js/components/form-post_content/template.php:4
+msgid "Insert Photo"
+msgstr "Insérer une photo"
+
+#: class/transactions-list-table.php:50 includes/class-privacy.php:346
+#: includes/class-privacy.php:466
+msgid "Pack ID"
+msgstr "ID de pack"
+
+#: assets/js-templates/form-components.php:130 admin/template.php:231
+#: admin/form-builder/assets/js/components/field-option-data/template.php:10
+msgid "Show values"
+msgstr "Afficher les valeurs"
+
+#: includes/fields/class-abstract-fields.php:250
+#: includes/class-customizer.php:106 admin/template.php:60
+msgid "Required"
+msgstr "Obligatoire"
+
+#: templates/dashboard/subscription.php:3
+#: includes/class-user-subscription.php:315
+msgid "Subscription Details"
+msgstr "Détails de l’abonnement"
+
+#: templates/dashboard/subscription.php:46
+#: includes/class-user-subscription.php:354
+#: admin/class-admin-subscription.php:669
+msgid "Expire date:"
+msgstr "Date d’expiration :"
+
+#: includes/free/subscription.php:8 includes/class-privacy.php:478
+#: admin/class-admin-subscription.php:205
+msgid "Recurring"
+msgstr "Récurrent"
+
+#: class/frontend-account.php:243 class/subscription.php:922
+#: templates/subscriptions/pack-details.php:24
+#: includes/class-user-subscription.php:305
+#: admin/class-admin-subscription.php:226
+#: admin/class-admin-subscription.php:596
+msgid "Free"
+msgstr "Gratuit"
+
+#: assets/js-templates/form-components.php:410
+#: admin/form-builder/assets/js/components/field-visibility/template.php:50
+msgid "No subscription plan found."
+msgstr "Aucun forfait d’abonnement trouvé."
+
+#: templates/dashboard/subscription.php:17
+#: includes/class-user-subscription.php:330
+msgid "Remaining post: "
+msgstr "Publications restantes : "
+
+#: templates/dashboard/subscription.php:5
+#: includes/class-user-subscription.php:317
+msgid "Subcription Name: "
+msgstr "Nom de l’abonnement : "
+
+#: templates/registration-form.php:54 includes/free/edit-profile.php:102
+#: includes/free/edit-user.php:97 includes/free/edit-user.php:157
+#: includes/class-login-widget.php:278
+msgid "Username"
+msgstr "Identifiant"
+
+#: includes/free/edit-profile.php:106 includes/class-privacy.php:350
+#: admin/html/support.php:218
+msgid "First Name"
+msgstr "Pr&eacute;nom"
+
+#: includes/free/edit-profile.php:111 includes/class-privacy.php:354
+msgid "Last Name"
+msgstr "Nom"
+
+#: includes/free/admin/shortcode-button.php:91
+#: includes/class-login-widget.php:248 admin/installer.php:89
+msgid "Login"
+msgstr "Se connecter"
+
+#: class/transactions-list-table.php:53 templates/registration-form.php:47
+#: includes/free/edit-user.php:168 includes/class-privacy.php:358
+#: admin/html/support.php:223 admin/html/form-submission-restriction.php:12
+msgid "Email"
+msgstr "E-mail"
+
+#: templates/registration-form.php:61 templates/login-form.php:27
+#: includes/class-login-widget.php:279
+msgid "Password"
+msgstr "Mot de passe"
+
+#: includes/class-privacy.php:69 admin/settings-options.php:39
+msgid "Payments"
+msgstr "Paiements"
+
+#: includes/setup-wizard.php:308 admin/class-tools.php:331
+#: admin/installer.php:30
+msgid "Install WPUF Pages"
+msgstr "Installer les pages WPUF"
+
+#: class/post-form-templates/post.php:20
+#: includes/fields/class-field-post-title.php:6 includes/class-privacy.php:417
+msgid "Post Title"
+msgstr "Titre de l'article"
+
+#: includes/free/loader.php:78 admin/form.php:106
+msgid "Registration Forms"
+msgstr "Formulaires d’enregistrement"
+
+#: includes/setup-wizard.php:398
+msgid "Thank you!"
+msgstr "Merci !"
+
+#: includes/setup-wizard.php:348
+msgid "Continue"
+msgstr "Continuer"
+
+#: includes/setup-wizard.php:311
+msgid "Install neccessery pages on your site frontend."
+msgstr "Installer les pages nécessaires sur l’interface utilisateur de votre site."
+
+#: includes/setup-wizard.php:297
+msgid "Basic Setting"
+msgstr "Réglage de base"
+
+#: includes/setup-wizard.php:286
+msgid "Not right now"
+msgstr "Pas tout de suite"
+
+#: includes/setup-wizard.php:285
+msgid "Let's Go!"
+msgstr "Allons-y !"
+
+#: includes/setup-wizard.php:283
+msgid "No time right now? If you don’t want to go through the wizard, you can skip and return to the WordPress dashboard. Come back anytime if you change your mind!"
+msgstr "Pas le temps maintenant ? Si vous ne souhaitez pas utiliser l’assistant, vous pouvez ignorer et revenir au tableau de bord WordPress. Revenez à tout moment si vous changez d’avis !"
+
+#: includes/setup-wizard.php:349
+msgid "Skip this step"
+msgstr "Ignorer cette étape"
+
+#: includes/setup-wizard.php:130
+msgid "Ready!"
+msgstr "Prêt·e !"
+
+#: includes/setup-wizard.php:240
+msgid "Return to the WordPress Dashboard"
+msgstr "Retourner au tableau de bord WordPress"
+
+#: includes/setup-wizard.php:167
+msgid "WPUF &rsaquo; Setup Wizard"
+msgstr "WPUF &rsaquo; Assistant de configuration"
+
+#: includes/setup-wizard.php:120
+msgid "Introduction"
+msgstr "Introduction"
+
+#: includes/setup-wizard.php:52
+msgctxt "enhanced select"
+msgid "Searching&hellip;"
+msgstr "Recherche&hellip;"
+
+#: includes/setup-wizard.php:50
+msgctxt "enhanced select"
+msgid "You can only select %qty% items"
+msgstr "Vous pouvez sélectionner uniquement %qty% éléments"
+
+#: includes/setup-wizard.php:49
+msgctxt "enhanced select"
+msgid "You can only select 1 item"
+msgstr "Vous pouvez sélectionner uniquement 1 élément"
+
+#: includes/setup-wizard.php:47
+msgctxt "enhanced select"
+msgid "Please delete 1 character"
+msgstr "Veuillez supprimer 1 caractère"
+
+#: includes/setup-wizard.php:48
+msgctxt "enhanced select"
+msgid "Please delete %qty% characters"
+msgstr "Veuillez supprimer %qty% caractères"
+
+#: includes/setup-wizard.php:46
+msgctxt "enhanced select"
+msgid "Please enter %qty% or more characters"
+msgstr "Veuillez saisir %qty% caractères ou plus"
+
+#: includes/setup-wizard.php:45
+msgctxt "enhanced select"
+msgid "Please enter 1 or more characters"
+msgstr "Veuillez supprimer 1 ou plusieurs caractères"
+
+#: includes/setup-wizard.php:44
+msgctxt "enhanced select"
+msgid "Loading failed"
+msgstr "Échec du chargement"
+
+#: includes/setup-wizard.php:42
+msgctxt "enhanced select"
+msgid "%qty% results are available, use up and down arrow keys to navigate."
+msgstr "%qty% résultats sont disponibles, utilisez les touches fléchées haut et bas pour naviguer."
+
+#: includes/setup-wizard.php:41
+msgctxt "enhanced select"
+msgid "One result is available, press enter to select it."
+msgstr "Un résultat est disponible, appuyez sur entrée pour le sélectionner."
+
+#. Plugin Name of the plugin
+#: includes/class-customizer.php:47 admin/class-admin-settings.php:88
+msgid "WP User Frontend"
+msgstr "WP User Frontend"
+
+#: includes/setup-wizard.php:407
+msgid "Go to Full Settings"
+msgstr "Aller aux réglages complets"
+
+#: includes/setup-wizard.php:304
+msgid "Make payment enable for user to add posts on frontend."
+msgstr "Faire en sorte que le paiement permette à l’utilisateur d’ajouter des publications via l’interface utilisateur."
+
+#: includes/setup-wizard.php:51
+msgctxt "enhanced select"
+msgid "Loading more results&hellip;"
+msgstr "Chargement de plus de résultats&hellip;"
+
+#: class/payment.php:202 class/payment.php:253 includes/class-privacy.php:338
+msgid "Total"
+msgstr "Total"
+
+#: includes/class-privacy.php:261
+msgid "Zip"
+msgstr "Code postal"
+
+#: includes/class-privacy.php:257
+msgid "State"
+msgstr "État"
+
+#: includes/free/class-login.php:972 includes/class-login-widget.php:149
+msgid "To reset your password, visit the following address:"
+msgstr "Pour réinitialiser votre mot de passe, cliquez sur le lien suivant :"
+
+#. translators: %s: username
+#: includes/free/class-login.php:858 includes/free/class-login.php:970
+#: includes/free/class-registration.php:299 includes/class-login-widget.php:147
+msgid "Username: %s"
+msgstr "Identifiant : %s"
+
+#: includes/class-login-widget.php:145
+msgid "Someone has requested a password reset for the following account:"
+msgstr "Quelqu’un a demandé la réinitialisation du mot de passe pour le compte suivant :"
+
+#: includes/class-whats-new.php:107 admin/promotion.php:222
+msgid "Dismiss this notice."
+msgstr "Ignorer cette notification."
+
+#: templates/dashboard/billing-address.php:142 includes/class-privacy.php:253
+#: includes/class-customizer.php:26 includes/class-customizer.php:70
+#: includes/class-billing-address.php:258
+msgid "City"
+msgstr "Ville"
+
+#: templates/dashboard/billing-address.php:52 includes/class-privacy.php:265
+#: includes/class-customizer.php:22 includes/class-customizer.php:66
+#: includes/class-billing-address.php:161
+msgid "Country"
+msgstr "Pays"
+
+#: assets/js-templates/form-components.php:68
+#: admin/form-builder/assets/js/components/builder-stage/template.php:67
+msgid "value"
+msgstr "valeur"
+
+#: assets/js-templates/form-components.php:68
+#: admin/form-builder/assets/js/components/builder-stage/template.php:67
+msgid "key"
+msgstr "clé"
+
+#: includes/class-list-table-subscribers.php:48
+msgid "Expire date"
+msgstr "Date d’expiration"
+
+#: templates/dashboard/posts.php:149 templates/dashboard.php:237
+#: includes/class-list-table-subscribers.php:137
+msgid "Completed"
+msgstr "Terminé"
+
+#. translators: %s: blogname
+#: includes/free/class-login.php:983 includes/class-login-widget.php:154
+msgid "[%s] Password Reset"
+msgstr "[%s] Réinitialisation du mot de passe"
+
+#: assets/js-templates/form-components.php:30
+#: assets/js-templates/form-components.php:467
+#: admin/form-builder/assets/js/components/form-column_field/template.php:29
+#: admin/form-builder/assets/js/components/builder-stage/template.php:29
+msgid "is available in Pro Version"
+msgstr "est disponible dans la version Pro"
+
+#: assets/js-templates/form-components.php:4
+#: admin/form-builder/assets/js/components/builder-stage/template.php:3
+msgid "Add fields by dragging the fields from the right sidebar to this area."
+msgstr "Ajoutez des champs en faisant glisser les champs de la colonne latérale droite vers cette zone."
+
+#: templates/lost-pass-form.php:14 includes/class-login-widget.php:232
+msgid "Username or E-mail:"
+msgstr "Identifiant ou e-mail :"
+
+#: includes/class-login-widget.php:276
+msgid "Username or Email Address"
+msgstr "Identifiant ou adresse e-mail"
+
+#: includes/setup-wizard.php:43
+msgctxt "enhanced select"
+msgid "No matches found"
+msgstr "Aucune correspondance trouvée"
+
+#: includes/class-list-table-subscribers.php:30
+msgid "No subscribers found"
+msgstr "Aucun abonné trouvé"
+
+#: includes/class-privacy.php:78
+msgid "As an example while using MailChimp for your marketing email automation service by integrating it with WP User Frontend, some of your data will be passed to MailChimp, including information required to process or support the email marketing services, such as name, email address and any other information that you intend to pass or collect including all collected information through subscription. "
+msgstr "Par exemple, lorsque vous utilisez MailChimp pour votre service d’automatisation d’e-mail marketing en l’intégrant à WP User Frontend, certaines de vos données sont transmises à MailChimp, notamment les informations nécessaires au traitement ou à la prise en charge des services de marketing par e-mail, telles que le nom, l’adresse e-mail et toute autre information que vous avez l’intention de transmettre ou de collecter, y compris toutes les informations collectées via l’abonnement. "
+
+#: includes/class-privacy.php:63
+msgid "Customer information like your name, email address, and billing and shipping information."
+msgstr "Les informations client telles que votre nom, votre adresse e-mail et les informations de facturation et de livraison."
+
+#: includes/class-privacy.php:58
+msgid "We generally store information about you for as long as we need the information for the purposes for which we collect and use it, and we are not legally required to continue keeping it. For example, we will store form submission information for XXX years for tax, accounting and marketing purposes. This includes your name, email address and billing and shipping addresses."
+msgstr "Nous conservons généralement les informations vous concernant aussi longtemps que nous en avons besoin aux fins pour lesquelles nous les recueillons et les utilisons, et nous ne sommes pas tenus légalement de continuer à les conserver. Par exemple, nous allons stocker les informations d’envoi de formulaire pour XXX années à des fins fiscales, comptables et de marketing. Cela inclut votre nom, votre adresse e-mail, ainsi que les adresses de facturation et d’expédition."
+
+#: includes/class-privacy.php:47
+msgid "When you fill up a form, we’ll ask you to provide information including your name, billing address, shipping address, email address, phone number, credit card/payment details and optional account information like username and password and any other form fields found in the form building options. We’ll use this information for purposes, such as, to:"
+msgstr "Lorsque vous remplissez un formulaire, nous vous demandons de fournir des informations telles que vos nom, adresse de facturation, adresse de livraison, adresse e-mail, numéro de téléphone, détails de carte de crédit/paiement et des informations de compte facultatives telles qu’identifiant et mot de passe, ainsi que tout autre champ de formulaire trouvé dans les options de construction de formulaire. Nous utiliserons ces informations à des fins telles que :"
+
+#: includes/class-login-widget.php:277
+msgid "Please enter your username or email address. You will receive a link to create a new password via email"
+msgstr "Veuillez saisir votre identifiant ou adresse e-mail. Vous recevrez par e-mail un lien pour créer un nouveau mot de passe"
+
+#: includes/class-login-widget.php:114
+msgid "<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr "<strong>Erreur</strong> : aucun compte n’a été inscrit avec cette adresse e-mail."
+
+#: includes/class-login-widget.php:109
+msgid "<strong>ERROR</strong>: Enter a username or email address."
+msgstr "<strong>Erreur</strong> : saisissez un identifiant ou une adresse e-mail."
+
+#: includes/class-login-widget.php:161
+msgid "<strong>ERROR</strong>: The email could not be sent.Possible reason: your host may have disabled the mail() function."
+msgstr "<strong>Erreur</strong> : l’e-mail n’a pas pu être envoyé. Raison possible : votre hébergeur a peut-être désactivé la fonction mail()."
+
+#: includes/setup-wizard.php:282
+msgid "Thank you for choosing WPUF to power your websites frontend! This quick setup wizard will help you configure the basic settings. <strong>It’s completely optional and shouldn’t take longer than a minute.</strong>"
+msgstr "Merci d’avoir choisi WPUF pour alimenter vos sites via l’interface publique ! Cet assistant de configuration rapide vous aidera à configurer les réglages de base. <strong> C’est totalement facultatif et ne devrait pas prendre plus d’une minute. </strong>"
+
+#: includes/class-privacy.php:57
+msgid "If you create an account, we will store your name, address, email and phone number, which will be used to populate the form fields for future submissions."
+msgstr "Si vous créez un compte, nous enregistrerons votre nom, votre adresse, votre adresse e-mail et votre numéro de téléphone, qui seront utilisés pour renseigner les champs du formulaire lors de futurs envois."
+
+#: includes/class-login-widget.php:293
+msgid "Username Label:"
+msgstr "Libellé de l’identifiant :"
+
+#: includes/class-privacy.php:41
+msgid "Form Fields Data: Forms Fields data includes the available field types when creating a form. We’ll use this to, for example, collect informations like Name, Email and other available fields."
+msgstr "Données de champs de formulaire : les données de champs de formulaires incluent les types de champs disponibles lors de la création d’un formulaire. Nous allons utiliser cela pour, par exemple, collecter des informations telles que nom, e-mail et autres champs disponibles."
+
+#: includes/class-list-table-subscribers.php:42
+msgid "User Name"
+msgstr "Nom de l’utilisateur/utilisatrice"
+
+#: includes/class-login-widget.php:131
+msgid "<strong>ERROR</strong>: Invalid username or email."
+msgstr "<strong>Erreur</strong> : identifiant ou adresse e-mail non valide."
+
+#: includes/setup-wizard.php:125 admin/class-admin-settings.php:116
+#: admin/class-admin-settings.php:156
+#: admin/form-builder/views/form-builder.php:9
+msgid "Settings"
+msgstr "Paramètres"

@@ -1,0 +1,145 @@
+# Translation of Themes - Highlight in French (France)
+# This file is distributed under the same license as the Themes - Highlight package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-01-17 13:45:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - Highlight\n"
+
+#. Description of the theme
+msgid "Highlight is an incredibly flexible, multipurpose WordPress theme that can help you create an amazing website easier than ever, by drag and drop. It comes with a predesigned home page, 5 header designs and over 30 ready to use content sections that you can easily customize. It also has lots of customization options (video background, slideshow background, header content types, gradient overlays, etc) that will help you create a beautiful, unique website in no time. Highlight is responsive so it works on mobile devices out of the box and it is also WooCommerce ready."
+msgstr "Highlight est un thème WordPress incroyablement flexible et polyvalent qui peut vous aider à créer un site incroyable plus facilement que jamais par glisser-déposer. Il est livré avec une page d'accueil pré-conçue, 5 conceptions d'en-tête et plus de 30 sections de contenu prêtes à l’emploi que vous pouvez facilement personnaliser. Il a également de nombreuses options de personnalisation (arrière-plan vidéo, arrière-plan de diaporama, en-tête de types de contenu, superpositions de dégradé, etc) qui vous aideront à créer un beau site unique site en un rien de temps. Highlight est responsive et fonctionne donc sur les appareils mobiles et est aussi prêt pour WooCommerce."
+
+#. Theme Name of the theme
+#: inc/admin.php:42
+msgid "Highlight"
+msgstr "Surbrillance"
+
+#: functions.php:195
+msgid "Built using WordPress and the %s"
+msgstr "Construit avec WordPress et le thème %s"
+
+#: functions.php:178
+msgid "Mesmerize Companion plugin adds drag and drop functionality and many other features to the Highlight theme."
+msgstr "L’extension Mesmerize Companion ajoute une fonctionnalité de glisser/déposer et bien d’autres fonctionnalités au thème Highlight."
+
+#: functions.php:168
+msgid "Highlight PRO"
+msgstr "Highlight PRO"
+
+#: functions.php:162
+msgid "Highlight Demos"
+msgstr "Démos d’Highligt"
+
+#: inc/side-navigation.php:126
+msgid "Side navigation"
+msgstr "Navigation du côté"
+
+#: inc/side-navigation.php:110
+msgid "Hide main menu"
+msgstr "Masquer le menu principal"
+
+#: inc/side-navigation.php:88
+msgid "None"
+msgstr "Aucun"
+
+#: inc/side-navigation.php:87
+msgid "All sections"
+msgstr "Toutes les sections"
+
+#: inc/side-navigation.php:86
+msgid "Active section only"
+msgstr "Uniquement les sections actives"
+
+#: inc/side-navigation.php:82
+msgid "Visible labels"
+msgstr "Libellés visibles"
+
+#: inc/side-navigation.php:60
+msgid "Page hero bullet label"
+msgstr "Libellé de puce de la page Hero"
+
+#: inc/side-navigation.php:43
+msgid "Show only after scroll"
+msgstr "Afficher uniquement après le défilement"
+
+#: inc/side-navigation.php:26
+msgid "Show page hero bullet"
+msgstr "Afficher la puce de page Hero"
+
+#: inc/side-navigation.php:16
+msgid "Enable side navigation"
+msgstr "Activer la navigation du côté"
+
+#: inc/side-navigation.php:8
+msgid "Side navigation options"
+msgstr "Options de navigation du côté"
+
+#: inc/template-functions.php:27 inc/side-navigation.php:65
+msgid "Top"
+msgstr "Haut"
+
+#: functions.php:200
+msgid "Y"
+msgstr "Y"
+
+#: functions.php:173
+msgid "Thank you for choosing Highlight!"
+msgstr "Merci d’avoir choisi Highlight !"
+
+#: functions.php:156
+msgid "Highlight Info"
+msgstr "Info Highlight"
+
+#: template-parts/content-single.php:30
+msgid "Previous post:"
+msgstr "Article précédent :"
+
+#: template-parts/content-single.php:29
+msgid "Previous:"
+msgstr "Précédent :"
+
+#: template-parts/content-single.php:26
+msgid "Next post:"
+msgstr "Article suivant :"
+
+#: template-parts/content-single.php:25
+msgid "Next:"
+msgstr "Suivant :"
+
+#: template-parts/content-single.php:16
+msgid "Page"
+msgstr "Page"
+
+#: template-parts/content-single.php:12
+msgid "Pages:"
+msgstr "Pages :"
+
+#: template-parts/content-post-meta.php:11
+msgid "on"
+msgstr "sur"
+
+#: template-parts/content-post-meta.php:10
+msgid "in"
+msgstr "dans"
+
+#: template-parts/content-post-meta.php:9
+msgid "by"
+msgstr "par"
+
+#. Theme URI of the theme
+msgid "https://extendthemes.com/highlight"
+msgstr "https://extendthemes.com/highlight"
+
+#. Author URI of the theme
+msgid "https://extendthemes.com/"
+msgstr "https://extendthemes.com/"
+
+#. Author of the theme
+msgid "ExtendThemes"
+msgstr "ExtendThemes"
