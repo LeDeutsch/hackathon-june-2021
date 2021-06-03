@@ -11,6 +11,7 @@ We aiming to create the a website with Wordpress and an Android app with Android
 
 ## About our project
 
+![Our website](images/background.jpg)
 
 
 
