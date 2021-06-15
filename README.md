@@ -7,7 +7,7 @@ Projet Hackathon Juin 2021 de l'école ÉSTIAM.
 
 ## There is our Second Hackathon project of 2021.
 
-We aiming to create the a website with Wordpress and an Android app with Android Studio.
+We aiming to create a website with Wordpress and an Android app with Android Studio.
 
 ## About our project
 
