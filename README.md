@@ -2,7 +2,7 @@
 
 ![Banner](images/banner.jpg)
 
-# hackathon-mars-2021
+# hackathon-Juin-2021
 Projet Hackathon Juin 2021 de l'école ÉSTIAM. 
 
 ## There is our Second Hackathon project of 2021.
